@@ -1,125 +1,160 @@
 {
   "total_repos": 5080,
-  "total_categories": 17,
   "categories": [
     {
-      "slug": "llm-agents",
-      "title": "LLM Agents",
-      "count": 2224,
-      "size_bytes": 1644770,
-      "file": "by-category/llm-agents.json"
-    },
-    {
-      "slug": "lang-python",
-      "title": "Python Agents",
-      "count": 1764,
-      "size_bytes": 1013408,
-      "file": "by-category/lang-python.json"
-    },
-    {
-      "slug": "trending",
-      "title": "Trending (50+ stars)",
-      "count": 1311,
-      "size_bytes": 1204136,
-      "file": "by-category/trending.json"
+      "slug": "agent-frameworks",
+      "title": "Agent Frameworks",
+      "file": "by-category/agent-frameworks.json",
+      "count": 283,
+      "size_bytes": 163308
     },
     {
       "slug": "agentic-ai",
       "title": "Agentic AI",
+      "file": "by-category/agentic-ai.json",
       "count": 1150,
-      "size_bytes": 665956,
-      "file": "by-category/agentic-ai.json"
-    },
-    {
-      "slug": "lang-typescript",
-      "title": "TypeScript Agents",
-      "count": 901,
-      "size_bytes": 515898,
-      "file": "by-category/lang-typescript.json"
-    },
-    {
-      "slug": "mcp-servers",
-      "title": "MCP Servers",
-      "count": 542,
-      "size_bytes": 312848,
-      "file": "by-category/mcp-servers.json"
-    },
-    {
-      "slug": "autonomous",
-      "title": "Autonomous Agents",
-      "count": 525,
-      "size_bytes": 318027,
-      "file": "by-category/autonomous.json"
-    },
-    {
-      "slug": "coding-agents",
-      "title": "Coding Agents",
-      "count": 378,
-      "size_bytes": 211824,
-      "file": "by-category/coding-agents.json"
-    },
-    {
-      "slug": "lang-go",
-      "title": "Go Agents",
-      "count": 329,
-      "size_bytes": 183847,
-      "file": "by-category/lang-go.json"
-    },
-    {
-      "slug": "lang-rust",
-      "title": "Rust Agents",
-      "count": 316,
-      "size_bytes": 174188,
-      "file": "by-category/lang-rust.json"
-    },
-    {
-      "slug": "langgraph",
-      "title": "LangGraph",
-      "count": 306,
-      "size_bytes": 180047,
-      "file": "by-category/langgraph.json"
-    },
-    {
-      "slug": "agent-frameworks",
-      "title": "Agent Frameworks",
-      "count": 283,
-      "size_bytes": 163308,
-      "file": "by-category/agent-frameworks.json"
-    },
-    {
-      "slug": "crewai",
-      "title": "CrewAI",
-      "count": 242,
-      "size_bytes": 139736,
-      "file": "by-category/crewai.json"
-    },
-    {
-      "slug": "lang-javascript",
-      "title": "JavaScript Agents",
-      "count": 227,
-      "size_bytes": 130947,
-      "file": "by-category/lang-javascript.json"
-    },
-    {
-      "slug": "tool-calling",
-      "title": "Tool-Calling Agents",
-      "count": 203,
-      "size_bytes": 117003,
-      "file": "by-category/tool-calling.json"
-    },
-    {
-      "slug": "voice-agents",
-      "title": "Voice Agents",
-      "count": 202,
-      "size_bytes": 111690,
-      "file": "by-category/voice-agents.json"
+      "size_bytes": 665956
     },
     {
       "slug": "autogen",
       "title": "AutoGen",
+      "file": "by-category/autogen.json",
       "count": 192,
-      "size_bytes": 110227,
-      "file": "by-category/autogen.json"
+      "size_bytes": 110227
+    },
+    {
+      "slug": "autonomous",
+      "title": "Autonomous Agents",
+      "file": "by-category/autonomous.json",
+      "count": 525,
+      "size_bytes": 318027
+    },
+    {
+      "slug": "coding-agents",
+      "title": "Coding Agents",
+      "file": "by-category/coding-agents.json",
+      "count": 378,
+      "size_bytes": 211824
+    },
+    {
+      "slug": "crewai",
+      "title": "CrewAI",
+      "file": "by-category/crewai.json",
+      "count": 242,
+      "size_bytes": 139736
+    },
+    {
+      "slug": "lang-go",
+      "title": "Go Agents",
+      "file": "by-category/lang-go.json",
+      "count": 329,
+      "size_bytes": 183847
+    },
+    {
+      "slug": "lang-javascript",
+      "title": "JavaScript Agents",
+      "file": "by-category/lang-javascript.json",
+      "count": 227,
+      "size_bytes": 130947
+    },
+    {
+      "slug": "lang-python",
+      "title": "Python Agents",
+      "file": "by-category/lang-python.json",
+      "count": 1764,
+      "size_bytes": 1013408
+    },
+    {
+      "slug": "lang-rust",
+      "title": "Rust Agents",
+      "file": "by-category/lang-rust.json",
+      "count": 316,
+      "size_bytes": 174188
+    },
+    {
+      "slug": "lang-typescript",
+      "title": "TypeScript Agents",
+      "file": "by-category/lang-typescript.json",
+      "count": 901,
+      "size_bytes": 515898
+    },
+    {
+      "slug": "langgraph",
+      "title": "LangGraph",
+      "file": "by-category/langgraph.json",
+      "count": 306,
+      "size_bytes": 180047
+    },
+    {
+      "slug": "llm-agents",
+      "title": "LLM Agents",
+      "file": "by-category/llm-agents-part1.json",
+      "count": 1724,
+      "size_bytes": 1388378,
+      "part": 1,
+      "of": 2
+    },
+    {
+      "slug": "llm-agents",
+      "title": "LLM Agents",
+      "file": "by-category/llm-agents-part2.json",
+      "count": 500,
+      "size_bytes": 256528,
+      "part": 2,
+      "of": 2
+    },
+    {
+      "slug": "llm-agents",
+      "title": "LLM Agents",
+      "file": "by-category/llm-agents.json",
+      "count": 2224,
+      "size_bytes": 243
+    },
+    {
+      "slug": "mcp-servers",
+      "title": "MCP Servers",
+      "file": "by-category/mcp-servers.json",
+      "count": 542,
+      "size_bytes": 312848
+    },
+    {
+      "slug": "tool-calling",
+      "title": "Tool-Calling Agents",
+      "file": "by-category/tool-calling.json",
+      "count": 203,
+      "size_bytes": 117003
+    },
+    {
+      "slug": "trending",
+      "title": "Trending (50+ stars)",
+      "file": "by-category/trending-part1.json",
+      "count": 655,
+      "size_bytes": 452780,
+      "part": 1,
+      "of": 2
+    },
+    {
+      "slug": "trending",
+      "title": "Trending (50+ stars)",
+      "file": "by-category/trending-part2.json",
+      "count": 656,
+      "size_bytes": 585411,
+      "part": 2,
+      "of": 2
+    },
+    {
+      "slug": "trending",
+      "title": "Trending (50+ stars)",
+      "file": "by-category/trending.json",
+      "count": 1311,
+      "size_bytes": 1204136
+    },
+    {
+      "slug": "voice-agents",
+      "title": "Voice Agents",
+      "file": "by-category/voice-agents.json",
+      "count": 202,
+      "size_bytes": 111690
     }
   ]
 }

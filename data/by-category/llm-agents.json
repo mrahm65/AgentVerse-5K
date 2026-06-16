@@ -1,10 +1,11 @@
 {
   "category": "llm-agents",
   "title": "LLM Agents",
-  "count": 2224,
-  "note": "Split into parts due to size. See llm-agents-part1.json and llm-agents-part2.json.",
+  "count": 1724,
+  "note": "split into multiple parts due to size",
   "parts": [
     "llm-agents-part1.json",
-    "llm-agents-part2.json"
+    "llm-agents-part2.json",
+    "llm-agents-part3.json"
   ]
 }
