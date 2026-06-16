@@ -8,7 +8,7 @@
 
 [![AgentVerse--5K](https://img.shields.io/badge/AgentVerse--5K-universe-2ea44f?logo=github)](#)  [![Repos](https://img.shields.io/badge/repos-5,080-blue)](#)  [![Updated](https://img.shields.io/badge/updated-2026-06-16-informational)](#)  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A curated, machine-indexed collection of **5,080 unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. 
+A curated, machine-indexed collection of **5,000+ unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. 
 
 ---
 
