@@ -14,7 +14,7 @@ A curated, machine-indexed collection of **5,000+ unique open-source AI-agent pr
 
 ## ⚡ Quick Start
 
-** Pick a category, open the table, jump straight to a repo:
+**Pick a category, open the table, jump straight to a repo:**
 
 ```bash
 # Clone this index
