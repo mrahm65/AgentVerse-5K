@@ -43,7 +43,6 @@ Each repository is tagged into one or more categories so you can drill down by u
 | Language | Repos | Share |
 | -------- | ----- | ----- |
 | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat) | 1,764 | 34.7% |
-| Unknown | 992 | 19.5% |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat) | 901 | 17.7% |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat) | 329 | 6.5% |
 | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat) | 316 | 6.2% |

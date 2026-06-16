@@ -117,7 +117,7 @@ for slug,items in by_cat.items():
 
 total=len(repos)
 lang_counts=Counter((r.get("language") or "Unknown") for r in repos)
-top_langs=lang_counts.most_common(10)
+top_langs=[(l,n) for l,n in lang_counts.most_common(20) if l!="Unknown"][:10]
 top_starred=sorted(repos,key=sk)[:30]
 licensed=sum(1 for r in repos if r.get("license") and r["license"]!="NOASSERTION")
 y2026=sum(1 for r in repos if (r.get("pushed_at") or "").startswith("2026"))
@@ -161,7 +161,7 @@ P("**Top 10 languages**"); P("")
 P("| Language | Repos | Share |")
 P("| -------- | ----- | ----- |")
 for lang,n in top_langs:
-    P(f"| {lang_badge(lang) if lang!='Unknown' else 'Unknown'} | {n:,} | {n*100/total:.1f}% |")
+    P(f"| {lang_badge(lang)} | {n:,} | {n*100/total:.1f}% |")
 P(""); P("---"); P("")
 P("## 🗂️ Categories"); P("")
 P("Click any category to open its full table.")
