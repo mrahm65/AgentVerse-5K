@@ -1,0 +1,10 @@
+{
+  "category": "trending",
+  "title": "Trending (50+ stars)",
+  "count": 1311,
+  "note": "Split into parts due to size. See trending-part1.json and trending-part2.json.",
+  "parts": [
+    "trending-part1.json",
+    "trending-part2.json"
+  ]
+}

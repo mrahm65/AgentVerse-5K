@@ -1,0 +1,125 @@
+{
+  "total_repos": 5080,
+  "total_categories": 17,
+  "categories": [
+    {
+      "slug": "llm-agents",
+      "title": "LLM Agents",
+      "count": 2224,
+      "size_bytes": 1644770,
+      "file": "by-category/llm-agents.json"
+    },
+    {
+      "slug": "lang-python",
+      "title": "Python Agents",
+      "count": 1764,
+      "size_bytes": 1013408,
+      "file": "by-category/lang-python.json"
+    },
+    {
+      "slug": "trending",
+      "title": "Trending (50+ stars)",
+      "count": 1311,
+      "size_bytes": 1204136,
+      "file": "by-category/trending.json"
+    },
+    {
+      "slug": "agentic-ai",
+      "title": "Agentic AI",
+      "count": 1150,
+      "size_bytes": 665956,
+      "file": "by-category/agentic-ai.json"
+    },
+    {
+      "slug": "lang-typescript",
+      "title": "TypeScript Agents",
+      "count": 901,
+      "size_bytes": 515898,
+      "file": "by-category/lang-typescript.json"
+    },
+    {
+      "slug": "mcp-servers",
+      "title": "MCP Servers",
+      "count": 542,
+      "size_bytes": 312848,
+      "file": "by-category/mcp-servers.json"
+    },
+    {
+      "slug": "autonomous",
+      "title": "Autonomous Agents",
+      "count": 525,
+      "size_bytes": 318027,
+      "file": "by-category/autonomous.json"
+    },
+    {
+      "slug": "coding-agents",
+      "title": "Coding Agents",
+      "count": 378,
+      "size_bytes": 211824,
+      "file": "by-category/coding-agents.json"
+    },
+    {
+      "slug": "lang-go",
+      "title": "Go Agents",
+      "count": 329,
+      "size_bytes": 183847,
+      "file": "by-category/lang-go.json"
+    },
+    {
+      "slug": "lang-rust",
+      "title": "Rust Agents",
+      "count": 316,
+      "size_bytes": 174188,
+      "file": "by-category/lang-rust.json"
+    },
+    {
+      "slug": "langgraph",
+      "title": "LangGraph",
+      "count": 306,
+      "size_bytes": 180047,
+      "file": "by-category/langgraph.json"
+    },
+    {
+      "slug": "agent-frameworks",
+      "title": "Agent Frameworks",
+      "count": 283,
+      "size_bytes": 163308,
+      "file": "by-category/agent-frameworks.json"
+    },
+    {
+      "slug": "crewai",
+      "title": "CrewAI",
+      "count": 242,
+      "size_bytes": 139736,
+      "file": "by-category/crewai.json"
+    },
+    {
+      "slug": "lang-javascript",
+      "title": "JavaScript Agents",
+      "count": 227,
+      "size_bytes": 130947,
+      "file": "by-category/lang-javascript.json"
+    },
+    {
+      "slug": "tool-calling",
+      "title": "Tool-Calling Agents",
+      "count": 203,
+      "size_bytes": 117003,
+      "file": "by-category/tool-calling.json"
+    },
+    {
+      "slug": "voice-agents",
+      "title": "Voice Agents",
+      "count": 202,
+      "size_bytes": 111690,
+      "file": "by-category/voice-agents.json"
+    },
+    {
+      "slug": "autogen",
+      "title": "AutoGen",
+      "count": 192,
+      "size_bytes": 110227,
+      "file": "by-category/autogen.json"
+    }
+  ]
+}

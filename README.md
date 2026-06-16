@@ -8,7 +8,7 @@
 
 [![AgentVerse--5K](https://img.shields.io/badge/AgentVerse--5K-universe-2ea44f?logo=github)](#)  [![Repos](https://img.shields.io/badge/repos-5,080-blue)](#)  [![Updated](https://img.shields.io/badge/updated-2026-06-16-informational)](#)  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A curated, machine-indexed collection of **5,080 unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. 
+A curated, machine-indexed collection of **5,080 unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. Inspired by [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects), scaled to 10× the size. 🚀
 
 ---
 
@@ -180,6 +180,29 @@ Source data: `repos_5080_all_unique.json` (included as the upstream dataset).
 The 5,080 indexed agents span every major industry — from healthcare and finance to gaming and agriculture. Use the mindmap below as a starting point, then drill into the matching category file for repos.
 
 ![Industry Use Cases](images/industry_usecases.png)
+
+---
+
+## 🗃️ Browse the Data
+
+The dataset is split per-category under `data/by-category/` — each file renders inline on GitHub:
+
+| File | Repos |
+| ---- | ----- |
+| [mcp-servers.json](data/by-category/mcp-servers.json) | 542 |
+| [voice-agents.json](data/by-category/voice-agents.json) | 202 |
+| [coding-agents.json](data/by-category/coding-agents.json) | 378 |
+| [langgraph.json](data/by-category/langgraph.json) | 306 |
+| [autogen.json](data/by-category/autogen.json) | 192 |
+| [crewai.json](data/by-category/crewai.json) | 242 |
+| [agent-frameworks.json](data/by-category/agent-frameworks.json) | 283 |
+| [agentic-ai.json](data/by-category/agentic-ai.json) | 1,150 |
+| [autonomous.json](data/by-category/autonomous.json) | 525 |
+| [llm-agents (part 1 / part 2)](data/by-category/llm-agents-part1.json) | 2,224 |
+| [trending (part 1 / part 2)](data/by-category/trending-part1.json) | 1,311 |
+| [_index.json](data/by-category/_index.json) | — manifest |
+
+The full unfiltered dataset is in `data/repos_5080_all_unique.json` (3.5 MB — too large for the GitHub web viewer, downloadable via the "Raw" button).
 
 ---
 
