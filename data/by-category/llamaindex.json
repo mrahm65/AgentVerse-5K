@@ -1,0 +1,2094 @@
+{
+  "category": "llamaindex",
+  "title": "LlamaIndex",
+  "count": 141,
+  "repos": [
+    {
+      "owner_repo": "paulpierre/RasaGPT",
+      "url": "https://github.com/paulpierre/RasaGPT",
+      "description": "💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram",
+      "language": "Python",
+      "stars": 2466,
+      "forks": 252,
+      "pushed_at": "2025-11-12T14:43:36Z",
+      "created_at": "2023-04-25T14:33:51Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:openai (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "run-llama/llama_deploy",
+      "url": "https://github.com/run-llama/llama_deploy",
+      "description": "Deploy your agentic worfklows to production",
+      "language": "Python",
+      "stars": 2068,
+      "pushed_at": "2026-04-06T20:36:41Z",
+      "created_at": "2024-05-29T16:52:16Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "LLPhant/LLPhant",
+      "url": "https://github.com/LLPhant/LLPhant",
+      "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+      "language": "PHP",
+      "stars": 1686,
+      "pushed_at": "2026-05-16T20:53:31Z",
+      "created_at": "2023-07-31T09:54:43Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "towardsai/ragbook-notebooks",
+      "url": "https://github.com/towardsai/ragbook-notebooks",
+      "description": "Repository for the \"Building LLMs for Production\" book by Towards AI.",
+      "language": "Jupyter Notebook",
+      "stars": 553,
+      "pushed_at": "2026-01-25T18:13:23Z",
+      "created_at": "2024-04-10T14:18:01Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "run-llama/ParseBench",
+      "url": "https://github.com/run-llama/ParseBench",
+      "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+      "language": "Python",
+      "stars": 495,
+      "pushed_at": "2026-06-15T04:40:02Z",
+      "created_at": "2026-04-10T20:46:33Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Azure-Samples/azure-ai-travel-agents",
+      "url": "https://github.com/Azure-Samples/azure-ai-travel-agents",
+      "description": "A robust enterprise application sample (deployed on ACA) that leverages MCP and multiple AI agents orchestrated by Langchain.js, Llamaindex.TS and Microsoft Agent Framework.",
+      "language": "TypeScript",
+      "stars": 442,
+      "pushed_at": "2026-06-14T09:00:52Z",
+      "created_at": "2025-03-14T14:51:15Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "towardsai/ai-tutor-rag-system",
+      "url": "https://github.com/towardsai/ai-tutor-rag-system",
+      "description": "This is a repository for the course \"From Beginner to LLM Developer\" by Towards AI.",
+      "language": "Jupyter Notebook",
+      "stars": 236,
+      "pushed_at": "2026-05-27T10:28:02Z",
+      "created_at": "2023-12-07T16:23:43Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Corpus-OS/corpusos",
+      "url": "https://github.com/Corpus-OS/corpusos",
+      "description": "Open-source protocol suite standardizing LLM, Vector, Graph, and Embedding infrastructure across LangChain, LlamaIndex, AutoGen, CrewAI, Semantic Kernel, and MCP. 3,330+ conformance tests. One protocol. Any framework. Any provider.",
+      "language": "Python",
+      "stars": 224,
+      "pushed_at": "2026-05-08T23:28:23Z",
+      "created_at": "2025-10-30T17:02:15Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Kyros-494/kyros-ai",
+      "url": "https://github.com/Kyros-494/kyros-ai",
+      "description": "Kyros — The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code.  Three memory types (episodic, semantic, procedural) with built-in forgetting curves, cryptographic integrity, and automatic contradiction resolution. Model-agnostic REST API with Python and TypeScript SDKs.",
+      "language": "Python",
+      "stars": 90,
+      "pushed_at": "2026-06-14T09:14:09Z",
+      "created_at": "2026-05-01T07:17:08Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Tyler-KD/multi-model-AI-assistant-medical-bot",
+      "url": "https://github.com/Tyler-KD/multi-model-AI-assistant-medical-bot",
+      "description": "RAG-enabled multi-agentic system for medical diagnosis and assistance",
+      "language": "Python",
+      "stars": 21,
+      "pushed_at": "2026-03-08T07:03:51Z",
+      "created_at": "2023-11-07T05:02:14Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "devwithmohit/ai-agent-architecture-patterns",
+      "url": "https://github.com/devwithmohit/ai-agent-architecture-patterns",
+      "description": "Production-grade architecture patterns, decision frameworks, and best  practices for building reliable AI agents. Framework-agnostic reference  for engineers.",
+      "language": null,
+      "stars": 10,
+      "pushed_at": "2026-01-31T06:23:33Z",
+      "created_at": "2026-01-27T14:45:47Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "kothapavan1998/deeprecall",
+      "url": "https://github.com/kothapavan1998/deeprecall",
+      "description": "Recursive reasoning engine for AI agents and vector databases. Powered by MIT's RLM.",
+      "language": "Python",
+      "stars": 8,
+      "pushed_at": "2026-03-02T18:53:13Z",
+      "created_at": "2026-02-14T06:53:28Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "HMAKT99/AKF",
+      "url": "https://github.com/HMAKT99/AKF",
+      "description": "The AI native file format — trust scores, provenance, and compliance metadata that embed into every file your AI touches. pip install akf",
+      "language": "Python",
+      "stars": 8,
+      "pushed_at": "2026-05-25T05:29:44Z",
+      "created_at": "2026-02-28T16:59:34Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "RomiconEZ/KONSPECTO-LLM",
+      "url": "https://github.com/RomiconEZ/KONSPECTO-LLM",
+      "description": "LLM agent that provides tools for convenient work with personal documents using voice or text.",
+      "language": "Python",
+      "stars": 6,
+      "pushed_at": "2026-03-01T11:33:18Z",
+      "created_at": "2024-12-05T13:43:00Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "agentvoy/agentvoy",
+      "url": "https://github.com/agentvoy/agentvoy",
+      "description": "The universal AI agent platform. Scaffold, configure, guard, and deploy AI agents across 7 frameworks — OpenAI, Anthropic, CrewAI, LangGraph, Google ADK, LlamaIndex, AutoGen. One command. Any model. Deploy anywhere.",
+      "language": "TypeScript",
+      "stars": 6,
+      "pushed_at": "2026-05-19T02:10:47Z",
+      "created_at": "2026-05-13T13:29:38Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "sitanshukr08/SynaptoRoute",
+      "url": "https://github.com/sitanshukr08/SynaptoRoute",
+      "description": "A high-throughput semantic routing engine for AI agents and LLM applications. Executes local intent classification using ONNX embeddings, FAISS indexing, and asynchronous micro-batching.",
+      "language": "Python",
+      "stars": 6,
+      "pushed_at": "2026-06-06T16:24:56Z",
+      "created_at": "2026-05-27T13:18:39Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "maximem-ai/maximem_synap_sdk",
+      "url": "https://github.com/maximem-ai/maximem_synap_sdk",
+      "description": "Maximem Synap is the memory layer that makes AI agents remember. 92% LongMemEval, 93.2% on LOCOMO. Works natively with LangChain, LlamaIndex, CrewAI, Google ADK, AutoGen, OpenAI Agents, Semantic Kernel, Haystack, and Pydantic AI.",
+      "language": "Python",
+      "stars": 6,
+      "pushed_at": "2026-06-14T00:07:52Z",
+      "created_at": "2026-04-10T08:19:34Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ananttripathi/PGP-Applied-AI-Agentic-AI-IIITB",
+      "url": "https://github.com/ananttripathi/PGP-Applied-AI-Agentic-AI-IIITB",
+      "description": "Applied AI and Agentic AI project repository from the IIIT Bangalore PGP program, focusing on LLMs, agentic workflows, automation, and real-world AI system design.",
+      "language": "Jupyter Notebook",
+      "stars": 5,
+      "pushed_at": "2026-04-18T19:09:11Z",
+      "created_at": "2025-12-19T19:02:16Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "NeuroForgeLabs/rag-doctor",
+      "url": "https://github.com/NeuroForgeLabs/rag-doctor",
+      "description": "🩺 RAG Doctor — Open-source diagnostic tool for Retrieval-Augmented Generation (RAG) systems. Analyzes codebases to detect architectural issues in LLM pipelines such as missing retrieval, bad chunking, embedding mismatches, and vector database misuse.",
+      "language": "JavaScript",
+      "stars": 4,
+      "forks": 0,
+      "pushed_at": "2026-03-13T09:56:03Z",
+      "created_at": "2026-03-13T06:26:54Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "caffeicsatyam/CFOBuddy",
+      "url": "https://github.com/caffeicsatyam/CFOBuddy",
+      "description": "An AI-Powered Multi-Agent Orchestration for CFOs - transforming raw financial data into actionable insights through conversational analysis and dynamic charting.",
+      "language": "Python",
+      "stars": 4,
+      "pushed_at": "2026-05-02T22:55:28Z",
+      "created_at": "2026-02-23T20:38:25Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "denniszielke/distributed-ai-agent-platform",
+      "url": "https://github.com/denniszielke/distributed-ai-agent-platform",
+      "description": "Architecture reference for multiple Async AI Agents with Kafka in Azure",
+      "language": "Python",
+      "stars": 4,
+      "pushed_at": "2026-05-27T15:26:41Z",
+      "created_at": "2024-08-07T07:28:27Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "m1ns09/Llama",
+      "url": "https://github.com/m1ns09/Llama",
+      "description": "🌐 Run GGUF models directly in your web browser using JavaScript and WebAssembly for a seamless and flexible AI experience.",
+      "language": "HTML",
+      "stars": 4,
+      "forks": 1,
+      "pushed_at": "2026-06-13T19:13:44Z",
+      "created_at": "2025-07-30T18:06:52Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "shaadclt/Summarization-Agent-Reflection",
+      "url": "https://github.com/shaadclt/Summarization-Agent-Reflection",
+      "description": "This project uses LlamaIndex's Introspective Agent to summarize product specification documents with a focus on performance specs and safety features. The pipeline loads PDF documents, extracts text, and generates a summary in less than 50 words using a reflective agent loop.",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2025-05-14T07:24:35Z",
+      "created_at": "2025-05-14T06:59:12Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "thekishandev/AI-Agents",
+      "url": "https://github.com/thekishandev/AI-Agents",
+      "description": "This repository contains my personal documentation and learning journey through the Hugging Face Agents Course. I'm documenting my progress, notes, and implementations as I work through the course materials.",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2025-05-15T06:28:28Z",
+      "created_at": "2025-04-28T08:11:20Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "yungyoda/jedAi-council",
+      "url": "https://github.com/yungyoda/jedAi-council",
+      "description": "🥷The JedAi Council: Build powerful AI agents with CrewAI, Graphiti Graph RAG, LlamaIndex, and modern uv package management 🚀 ",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2025-07-23T19:00:31Z",
+      "created_at": "2025-07-19T18:33:43Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "yjg30737/pyqt-ai",
+      "url": "https://github.com/yjg30737/pyqt-ai",
+      "description": "Basic multiple forms of AI usage in PyQt",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2025-08-04T09:25:04Z",
+      "created_at": "2024-03-30T01:51:41Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "alexwhin/redactum",
+      "url": "https://github.com/alexwhin/redactum",
+      "description": "⛨ redactum — automated PII & secret redaction for AI, APIs, and developer tools. Protects prompts, logs, and payloads before they leave your system. Lightweight and TypeScript-first.",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2025-10-05T16:59:32Z",
+      "created_at": "2025-10-04T09:55:08Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "ayeshajadoon/BarristerBot",
+      "url": "https://github.com/ayeshajadoon/BarristerBot",
+      "description": "BarristerBot: A GenAI based legal chatbot designed to provide personalized legal advice and solutions according to Pakistani law.",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 1,
+      "pushed_at": "2025-10-22T07:19:15Z",
+      "created_at": "2024-08-10T16:19:03Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "heroku-reference-apps/mia-llamaindex-rag",
+      "url": "https://github.com/heroku-reference-apps/mia-llamaindex-rag",
+      "description": "RAG chat with LlamaIndex and Heroku AI",
+      "language": "Python",
+      "stars": 3,
+      "forks": 3,
+      "pushed_at": "2025-11-10T14:43:44Z",
+      "created_at": "2025-08-14T16:15:55Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "shaadclt/Agent-Based-Scheduling-System",
+      "url": "https://github.com/shaadclt/Agent-Based-Scheduling-System",
+      "description": "An agent-based scheduling system that uses LlamaIndex workflows and the ReAct pattern to automate doctor discovery and appointment coordination through structured reasoning and tool execution.",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-01-04T07:07:05Z",
+      "created_at": "2025-05-15T04:43:31Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "sourangshupal/text2sql-rag",
+      "url": "https://github.com/sourangshupal/text2sql-rag",
+      "description": "Exploring TEXT2SQL with LlamaIndex",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 21,
+      "pushed_at": "2026-01-17T06:44:09Z",
+      "created_at": "2026-01-13T06:33:58Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "CarlosManuelDiaz/rag-ready-extractor",
+      "url": "https://github.com/CarlosManuelDiaz/rag-ready-extractor",
+      "description": "Stop indexing noise. Turn messy websites and PDFs into clean, structured data for RAG pipelines with semantic importance scoring and token optimization.",
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-03-08T08:30:35Z",
+      "created_at": "2026-03-08T08:16:12Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "estelacode/poc_III_tfg_multimodal_audio_rag_chatbot",
+      "url": "https://github.com/estelacode/poc_III_tfg_multimodal_audio_rag_chatbot",
+      "description": "Multimodal RAG chatbot with voice input for fashion product search 🤖🎙️👟⚡",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-03-22T14:59:38Z",
+      "created_at": "2024-12-03T19:36:07Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "maruakshay/mii-ai-security",
+      "url": "https://github.com/maruakshay/mii-ai-security",
+      "description": "Think like an attacker. Ship like a defender. — Open-source SKILL.md packs for hardening LLM systems: prompt injection, RAG security, tool execution, data leakage & governance. Framework-aware (LangChain, LlamaIndex, Semantic Kernel) and language-portable. Built for engineers who ship to production.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-04-30T14:26:37Z",
+      "created_at": "2026-04-27T04:58:55Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Jason-Hooo/isrc-rag-bot",
+      "url": "https://github.com/Jason-Hooo/isrc-rag-bot",
+      "description": "原資智慧服務 AI 機器人：A Agentic RAG system built with LlamaIndex and Qdrant for NCCU teachers and students.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-05-31T18:06:14Z",
+      "created_at": "2026-03-13T09:05:08Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "okahu-demos/okahu-demo-lmx-travel-agent",
+      "url": "https://github.com/okahu-demos/okahu-demo-lmx-travel-agent",
+      "description": "A travel agent python app built with LlamaIndex framework using GPT model from OpenAI to be run locally or on CI/CD with Github Actions",
+      "language": "Python",
+      "stars": 3,
+      "forks": 3,
+      "pushed_at": "2026-06-08T06:06:57Z",
+      "created_at": "2025-08-06T01:44:10Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "ferro-labs/ferrolabs-python-sdk",
+      "url": "https://github.com/ferro-labs/ferrolabs-python-sdk",
+      "description": "Ferro Labs AI Gateway Python SDK - Instrument your LLM app, Works with any LLM or framework",
+      "language": "Python",
+      "stars": 3,
+      "forks": 2,
+      "pushed_at": "2026-06-12T14:35:37Z",
+      "created_at": "2026-04-09T14:37:46Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Kauxtubh/pinecone",
+      "url": "https://github.com/Kauxtubh/pinecone",
+      "description": "Experimenting with Pinecone as vector data continues to take center stage in AI-native systems. The purpose of this project is to explore the core capabilities, and better understand what is possible with Pinecone.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-06-13T18:49:12Z",
+      "created_at": "2025-05-03T13:48:47Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Thaddaeu5/rag_service",
+      "url": "https://github.com/Thaddaeu5/rag_service",
+      "description": "",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-06-13T19:07:09Z",
+      "created_at": "2025-10-02T02:33:35Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "jesfra929/agentic-ai-learning-series",
+      "url": "https://github.com/jesfra929/agentic-ai-learning-series",
+      "description": "🛠️ Explore hands-on notebooks to master LLMs, RAG, LangChain, CrewAI, and multi-agent systems for effective AI learning and experimentation.",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-06-13T19:43:28Z",
+      "created_at": "2025-12-15T23:13:47Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "mimansha11/LLamaIndex-RAG-ChatBot",
+      "url": "https://github.com/mimansha11/LLamaIndex-RAG-ChatBot",
+      "description": "Document-Based-ChatBot Using LLamaindex, FastApi, Atlas",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2025-05-29T19:51:11Z",
+      "created_at": "2024-11-28T17:06:26Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "extrawest/fullstack_llamaindex_demo",
+      "url": "https://github.com/extrawest/fullstack_llamaindex_demo",
+      "description": "This application is a full-stack document indexing and retrieval system that allows users to upload documents, index their content, and perform natural language queries against the indexed documents. It utilizes LlamaIndex, OpenAI embeddings, and a modern React frontend to provide an interactive exp",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2025-06-13T17:21:39Z",
+      "created_at": "2025-04-25T06:25:31Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "RichardScottOZ/book-mentat",
+      "url": "https://github.com/RichardScottOZ/book-mentat",
+      "description": "Considering how to analyse book collections, Large Language Model style",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2025-08-05T06:06:06Z",
+      "created_at": "2024-05-04T04:19:21Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "HarshRajj/hospital-voice-agent-RAG",
+      "url": "https://github.com/HarshRajj/hospital-voice-agent-RAG",
+      "description": "AI-powered hospital voice assistant using RAG, LiveKit Agents, and LlamaIndex to answer patient queries, schedule appointments, and provide context-aware, multilingual responses.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2025-08-12T05:15:40Z",
+      "created_at": "2025-08-02T05:10:29Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "JasmeetSinghBali/JSentrix",
+      "url": "https://github.com/JasmeetSinghBali/JSentrix",
+      "description": "🎯 Autonomous Transaction Monitoring & Fraud Response System (Private, Multi-Agent/Modal, MCP/A2A Compliant)",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2025-08-19T08:04:26Z",
+      "created_at": "2025-05-14T12:49:57Z",
+      "archived": false,
+      "license": "GPL-3.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "AbdulSametTurkmenoglu/graph_rag",
+      "url": "https://github.com/AbdulSametTurkmenoglu/graph_rag",
+      "description": "Knowledge Graph (Graph RAG) from Turkish News with LlamaIndex",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2025-10-31T12:23:44Z",
+      "created_at": "2025-10-18T14:09:10Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Narasimha-kambham/agentic-ai-learning-series",
+      "url": "https://github.com/Narasimha-kambham/agentic-ai-learning-series",
+      "description": "A 7-part practical notebook series exploring LLMs, RAG, LangChain, CrewAI, LlamaIndex & real-time multi-agent systems.",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2025-11-22T04:42:48Z",
+      "created_at": "2025-11-22T03:47:50Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "josephsenior/llamaindex-enterprise-knowledge-base",
+      "url": "https://github.com/josephsenior/llamaindex-enterprise-knowledge-base",
+      "description": "Production-ready intelligent knowledge management system built with LlamaIndex. Enables organizations to query, analyze, and extract insights from multiple data sources (documents, databases, APIs) through natural language using advanced RAG capabilities, multi-tenant architecture, and specialized q",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2025-12-24T11:44:51Z",
+      "created_at": "2025-12-08T22:22:39Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "SidereusHu/RAG-Shield",
+      "url": "https://github.com/SidereusHu/RAG-Shield",
+      "description": "Defense-in-depth security framework for RAG systems: poison detection, cryptographic integrity, differential privacy, PIR, forensics, and production integrations for LangChain/LlamaIndex",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-02-08T02:15:16Z",
+      "created_at": "2026-01-29T15:49:33Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-",
+      "url": "https://github.com/Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-",
+      "description": "🤖 Advanced Multi-AI Agent Swarm built with LangGraph & LangChain, powered by Groq API (Llama-3,llama-3.3-70b-versatile) and Tavily API for real-time web search & RAG. Full-stack architecture using FastAPI & Streamlit with secure LLMOps/AIOps CI/CD via Docker, Jenkins, SonarQube, and cloud-native dep",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2026-02-23T05:07:41Z",
+      "created_at": "2025-12-29T07:37:17Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "amadou-6e/py-docker",
+      "url": "https://github.com/amadou-6e/py-docker",
+      "description": "Docker-DB is a Python library for managing database containers via Docker: supporting fast, scriptable setup of MongoDB, PostgreSQL, MySQL, and SQL Server for development and testing.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-03-08T13:14:58Z",
+      "created_at": "2025-05-16T07:52:42Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "romainsantoli-web/firm-ecosystem",
+      "url": "https://github.com/romainsantoli-web/firm-ecosystem",
+      "description": "Architecture documentation for the Firm AI Agent ecosystem — setup-vs-agent-firm + mcp-openclaw-extensions + Memory-os-ai",
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-03-17T09:21:06Z",
+      "created_at": "2026-03-03T07:20:41Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Kratugautam99/Agentic-AI-and-Generative-AI-Practice",
+      "url": "https://github.com/Kratugautam99/Agentic-AI-and-Generative-AI-Practice",
+      "description": "Agentic and Generative AI together describe systems that not only autonomously make decisions and pursue goals by interacting with their environment or other agents, but also generate new content such as text, images, or code by learning patterns from data. This fusion enables AI to act independentl",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-03-19T15:03:58Z",
+      "created_at": "2025-08-27T23:56:52Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "RoodyCode/rag",
+      "url": "https://github.com/RoodyCode/rag",
+      "description": "A modular, self-hosted RAG pipeline for building a private, searchable personal knowledge base from PDFs and structured documents.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-04-06T16:38:14Z",
+      "created_at": "2026-02-20T17:35:42Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "FelixBitSoul/swift-mind",
+      "url": "https://github.com/FelixBitSoul/swift-mind",
+      "description": "SwiftMind — Personal AI knowledge assistant (RAG) with KBs + chat",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-04-24T13:10:04Z",
+      "created_at": "2026-04-15T12:57:49Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Agnuxo1/benchclaw-integrations",
+      "url": "https://github.com/Agnuxo1/benchclaw-integrations",
+      "description": "BenchClaw adapters for LangChain, LlamaIndex, CrewAI, Ollama Open WebUI, LobeChat, n8n, Dify, Continue.dev and more. Lets any agent framework submit to the P2PCLAW leaderboard.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-04-25T02:05:05Z",
+      "created_at": "2026-04-18T19:44:34Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "gorevds/litemlflow",
+      "url": "https://github.com/gorevds/litemlflow",
+      "description": "Single-binary, MLflow-API-compatible experiment tracker with first-class LLM trace support. 143× faster cold start than MLflow.",
+      "language": "Go",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-05-11T17:58:55Z",
+      "created_at": "2026-05-08T11:01:23Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "wufei-png/AskAny",
+      "url": "https://github.com/wufei-png/AskAny",
+      "description": "A QA assistant combining keyword search and RAG with reranking. Deep optimization with multiple adjustable parameters and open-source model support (vllm). It uses LangGraph for workflow orchestration and LlamaIndex for retrieval. Openwebui is used for frontend. ",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-05-17T06:04:35Z",
+      "created_at": "2026-02-06T05:14:16Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "vikyw89/sql-agent",
+      "url": "https://github.com/vikyw89/sql-agent",
+      "description": "LLM agent able to do database queries and mutations",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2026-05-19T15:34:11Z",
+      "created_at": "2024-06-13T16:46:45Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "tomkat-cr/genericsuite-app-maker",
+      "url": "https://github.com/tomkat-cr/genericsuite-app-maker",
+      "description": "GSAM: AI tool to enhance the software development ideation and AI models, providers and features selection and test",
+      "language": "Python",
+      "stars": 2,
+      "forks": 2,
+      "pushed_at": "2026-05-20T15:10:45Z",
+      "created_at": "2024-11-05T15:51:54Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "shaikhadibbb/industrial-rag-assistant",
+      "url": "https://github.com/shaikhadibbb/industrial-rag-assistant",
+      "description": "Production RAG system for industrial maintenance docs — hybrid retrieval, cross-encoder reranking, async FastAPI",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-05-29T17:45:33Z",
+      "created_at": "2026-05-05T15:50:49Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "jacopobellosi/thesisBachelorDegree",
+      "url": "https://github.com/jacopobellosi/thesisBachelorDegree",
+      "description": "AI-powered CV counseling chat app built on a Retrieval-Augmented Generation pipeline (LlamaIndex / OpenAI / Streamlit)",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-05-31T19:21:33Z",
+      "created_at": "2024-07-23T11:26:21Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "ferro-labs/ai-gateway-cookbook",
+      "url": "https://github.com/ferro-labs/ai-gateway-cookbook",
+      "description": "Runnable, framework-focused recipes for the Ferro Labs AI Gateway: build LangChain & LangGraph agents that route across OpenAI, Anthropic & Gemini through one endpoint — docker compose up and go.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2026-06-01T09:43:48Z",
+      "created_at": "2026-05-14T08:39:51Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "tessera-llm/tessera-llamaindex",
+      "url": "https://github.com/tessera-llm/tessera-llamaindex",
+      "description": "LlamaIndex integration for the Tessera LLM cost-optimization proxy.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-06T13:12:53Z",
+      "created_at": "2026-05-19T09:50:58Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "ghostswap1/ghostswap-agents",
+      "url": "https://github.com/ghostswap1/ghostswap-agents",
+      "description": "Official multi-LLM agent pack for the GhostSwap Partners API (no-KYC crypto swaps, 1,600+ coins). MCP server, OpenAPI 3.1, Anthropic Agent Skill, AGENTS.md, Cursor/Copilot/Windsurf rules, ChatGPT GPT Action. Works with Claude, ChatGPT, Cursor, Windsurf, Gemini, Copilot, OpenAI Agents SDK, LangChain,",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-08T11:16:22Z",
+      "created_at": "2026-05-24T23:25:09Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "designer-coderajay/enterprise-agentic-ai-platform",
+      "url": "https://github.com/designer-coderajay/enterprise-agentic-ai-platform",
+      "description": "Production-grade multi-agent AI platform with LangGraph v0.3, MCP servers, hybrid RAG (Qdrant + LlamaIndex), FastAPI WebSocket streaming, and Next.js real-time UI. Deployed on AWS EKS via Terraform.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2026-06-09T09:30:16Z",
+      "created_at": "2026-05-01T12:20:51Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "farmountain/HipCortex",
+      "url": "https://github.com/farmountain/HipCortex",
+      "description": "Persistent causal memory for AI agents. 295x faster than Mem0. LangChain, LlamaIndex, AutoGen, CrewAI. Rust, zero deps.",
+      "language": "Rust",
+      "stars": 2,
+      "pushed_at": "2026-06-12T16:02:27Z",
+      "created_at": "2025-06-05T13:37:11Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "tryAGI/LlamaParse",
+      "url": "https://github.com/tryAGI/LlamaParse",
+      "description": "C# SDK for the LlamaParse API -- document parsing, extraction, RAG pipelines, and file management",
+      "language": "C#",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-12T22:45:39Z",
+      "created_at": "2026-03-27T02:33:08Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "ShionWakanae/Llamarkdown",
+      "url": "https://github.com/ShionWakanae/Llamarkdown",
+      "description": "A RAG Project of `Internal Telecom Data Quality Assurance Knowledge Base`.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-13T05:59:36Z",
+      "created_at": "2026-04-27T13:48:44Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Limbertutelvt2004/RAG",
+      "url": "https://github.com/Limbertutelvt2004/RAG",
+      "description": "🧠 Build an offline RAG chatbot to answer questions from PDFs, adapting responses based on user experience levels with a smooth chat interface.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-13T19:56:30Z",
+      "created_at": "2025-04-09T20:22:04Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Santex12/confluence2md",
+      "url": "https://github.com/Santex12/confluence2md",
+      "description": "🛠️ Convert Confluence `.doc` exports to clean Markdown effortlessly with this CLI tool, streamlining your documentation process.",
+      "language": "Go",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-13T20:10:46Z",
+      "created_at": "2026-01-23T14:22:58Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Yandatini/mcp-agent-framework",
+      "url": "https://github.com/Yandatini/mcp-agent-framework",
+      "description": "🤖 Orchestrate AI agents at scale using the MCP framework, enabling seamless context sharing, communication, and integration for enhanced collaboration.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2026-06-13T20:17:59Z",
+      "created_at": "2026-02-01T11:43:33Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "leo2007960216/deeprecall",
+      "url": "https://github.com/leo2007960216/deeprecall",
+      "description": "🔍 Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative information retrieval.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-13T20:32:27Z",
+      "created_at": "2026-02-28T03:50:59Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "willamcatosot/fastapi-react-chat",
+      "url": "https://github.com/willamcatosot/fastapi-react-chat",
+      "description": "Build a full-stack AI chat app using FastAPI, React, PostgreSQL, and OpenAI for scalable, maintainable, and intelligent web interaction.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-13T20:34:22Z",
+      "created_at": "2026-03-04T04:22:33Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "AshutoshRajGupta/AstraRag-agentic-rag-chatbot",
+      "url": "https://github.com/AshutoshRajGupta/AstraRag-agentic-rag-chatbot",
+      "description": "A fully modular Agentic RAG Chatbot built using CrewAI , FastAPI , LlamaIndex , ChromaDB , and a Streamlit Frontend .",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-01-19T11:34:20Z",
+      "created_at": "2025-12-26T19:48:26Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "FaiyazAzam/jupyter-course-assistant",
+      "url": "https://github.com/FaiyazAzam/jupyter-course-assistant",
+      "description": "A Jupyter-native AI teaching assistant using agentic RAG, PDF retrieval, and notebook inspection.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-01-22T03:49:48Z",
+      "created_at": "2025-11-18T08:22:25Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "CheunAnthony/financial_advisor",
+      "url": "https://github.com/CheunAnthony/financial_advisor",
+      "description": "This project is a **production-ready multi-agent AI financial advisory system** designed to deliver **holistic, personalized financial guidance**.   ",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-02-03T05:38:43Z",
+      "created_at": "2026-01-13T00:03:02Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "RudraJoshi25/personaquery-rag-agent",
+      "url": "https://github.com/RudraJoshi25/personaquery-rag-agent",
+      "description": "RAG-based personal knowledge agent with citations, guardrails, and evaluation.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-02-04T08:56:27Z",
+      "created_at": "2026-01-21T12:00:59Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "susendran-k/Natural-Language-to-SQL",
+      "url": "https://github.com/susendran-k/Natural-Language-to-SQL",
+      "description": "An AI-powered analytics agent that transforms natural language into SQL queries to analyze 2.2 million Aadhar records. Built with Gemini 1.5 Flash, LlamaIndex, and PostgreSQL, featuring an interactive Streamlit dashboard for real-time visualization.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-02-22T13:11:47Z",
+      "created_at": "2026-02-19T07:57:04Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "leah-git1/agentic-rag-real-estate",
+      "url": "https://github.com/leah-git1/agentic-rag-real-estate",
+      "description": "An Event-Driven Agentic-RAG system for real estate documentation, featuring smart routing between vector search (Pinecone) and structured JSON data.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-03-12T12:51:05Z",
+      "created_at": "2026-03-12T11:21:19Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Ratnesh-181998/advance-nlp-generative-ai",
+      "url": "https://github.com/Ratnesh-181998/advance-nlp-generative-ai",
+      "description": "LLM-engineering-nlp is a production-focused repository for Advanced NLP and Generative AI engineering. It features hands-on implementations of transformers, large language models (LLMs), fine-tuning methods, RAG pipelines, vector databases, AI agents, and LLMOps workflows using modern open-source and API-based GenAI frameworks.",
+      "language": null,
+      "stars": 1,
+      "pushed_at": "2026-03-20T18:22:13Z",
+      "created_at": "2026-01-17T22:16:51Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "LockMan04/AI-CSKH",
+      "url": "https://github.com/LockMan04/AI-CSKH",
+      "description": "AI Customer Service Agent cho thương mại điện tử",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-03-28T07:37:21Z",
+      "created_at": "2026-03-26T17:46:56Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "himalaydhall/Second_Brain",
+      "url": "https://github.com/himalaydhall/Second_Brain",
+      "description": "An agentic RAG system that reasons across PDFs",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-03-29T19:30:56Z",
+      "created_at": "2026-03-29T17:30:01Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "TechyNilesh/EngramX",
+      "url": "https://github.com/TechyNilesh/EngramX",
+      "description": "EngramX — The Open-Source Agent Memory Framework. Pluggable storage, lifecycle policies, observability, and framework adapters for AI agents.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-04-02T00:35:19Z",
+      "created_at": "2026-03-29T10:58:24Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "MalakHisham121/AI--powered-Chatbots",
+      "url": "https://github.com/MalakHisham121/AI--powered-Chatbots",
+      "description": "A dual-agent AI system featuring a LangGraph-powered SQL Inventory Bot and a LlamaIndex-powered Neo4j Knowledge Graph Agent for natural language database management",
+      "language": "Jupyter Notebook",
+      "stars": 1,
+      "pushed_at": "2026-04-19T11:18:49Z",
+      "created_at": "2026-03-04T13:26:33Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "jeanette-zamorag/ai-reputation-analyzer",
+      "url": "https://github.com/jeanette-zamorag/ai-reputation-analyzer",
+      "description": "Autonomous AI agent that analyzes Google Maps reviews using Claude API, LangGraph and hybrid RAG",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-05-05T13:01:22Z",
+      "created_at": "2026-05-05T12:48:29Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "fransiskusbudi/taliu",
+      "url": "https://github.com/fransiskusbudi/taliu",
+      "description": "Personal AI agent with text chat and voice call, grounded in a curated knowledge base via hybrid retrieval. FastAPI · LlamaIndex · Qdrant · React 19.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-05-14T20:22:37Z",
+      "created_at": "2026-04-04T23:06:11Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "AstraBert/agent-anatomy-presentation",
+      "url": "https://github.com/AstraBert/agent-anatomy-presentation",
+      "description": null,
+      "language": "HTML",
+      "stars": 1,
+      "pushed_at": "2026-05-22T11:23:08Z",
+      "created_at": "2026-04-20T09:55:21Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "LuciferForge/llamaindex-kya",
+      "url": "https://github.com/LuciferForge/llamaindex-kya",
+      "description": "KYA (Know Your Agent) identity verification for LlamaIndex agents",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-05-28T14:21:26Z",
+      "created_at": "2026-03-08T05:43:03Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Rakshita-0023/bwe-venture-agent",
+      "url": "https://github.com/Rakshita-0023/bwe-venture-agent",
+      "description": "Local-first BWE Venture Intelligence Agent using Ollama, ChromaDB, LlamaIndex, and Streamlit.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-09T16:43:28Z",
+      "created_at": "2026-06-09T11:02:53Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "TAIPANBOX/engram",
+      "url": "https://github.com/TAIPANBOX/engram",
+      "description": "SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bitemporal facts, spreading-activation, working memory, async API, LLM compression, Ebbinghaus decay, GDPR forget, multi-agent, MCP-native.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-09T22:13:15Z",
+      "created_at": "2026-05-12T10:45:15Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "QWED-AI/qwed-open-responses",
+      "url": "https://github.com/QWED-AI/qwed-open-responses",
+      "description": "Verification guards for OpenAI Responses API - Verify AI agent outputs before execution",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-12T15:22:24Z",
+      "created_at": "2026-01-16T16:57:21Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "cobusgreyling/recollect",
+      "url": "https://github.com/cobusgreyling/recollect",
+      "description": "Long-term memory layer for AI agents",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-13T17:32:25Z",
+      "created_at": "2026-06-13T08:24:25Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "daveshenal/aegis",
+      "url": "https://github.com/daveshenal/aegis",
+      "description": "Multi-agent research synthesis system using LangGraph, Gemini, LlamaIndex, and Pinecone with full LLMOps instrumentation and production-grade orchestration on AWS.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-14T22:02:47Z",
+      "created_at": "2026-05-18T15:38:09Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "X44444444/Index-RAG",
+      "url": "https://github.com/X44444444/Index-RAG",
+      "description": "📍 Store text locations in vector databases for QA tasks, enhancing citation accuracy and retrieval precision in RAG systems.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-15T08:25:46Z",
+      "created_at": "2025-12-13T08:22:42Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "linnhokdepzai/Agentic-RAG-Notebooks",
+      "url": "https://github.com/linnhokdepzai/Agentic-RAG-Notebooks",
+      "description": "📚 Explore advanced Retrieval-Augmented Generation implementations with intelligent agents using LangChain and various vector stores.",
+      "language": "Jupyter Notebook",
+      "stars": 1,
+      "pushed_at": "2026-06-15T08:35:14Z",
+      "created_at": "2025-12-27T04:41:51Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "run-llama/llama_index",
+      "url": "https://github.com/run-llama/llama_index",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "devgomesai/Hybirid-Agentic-RAG",
+      "url": "https://github.com/devgomesai/Hybirid-Agentic-RAG",
+      "description": "This system is designed to ingest documents (PDFs) from a local directory, index them using a hybrid approach (Dense Vectors + BM25), and provide an AI agent that can strictly answer questions based on the retrieved context.",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "pushed_at": "2026-01-05T02:31:37Z",
+      "created_at": "2025-12-31T18:15:16Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "tomerbr1/insurance-claim-rag-system",
+      "url": "https://github.com/tomerbr1/insurance-claim-rag-system",
+      "description": "Multi-agent RAG system for insurance claim analysis using LlamaIndex with 3-way routing (SQL/Summary/Needle), hierarchical chunking, and multi-grader evaluation",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-01-16T20:21:14Z",
+      "created_at": "2025-12-08T15:36:43Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "davidkern13/multi-agent-rag-gpt",
+      "url": "https://github.com/davidkern13/multi-agent-rag-gpt",
+      "description": "🚀 Multi-Agent RAG Retrieval System",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-01-19T07:12:18Z",
+      "created_at": "2026-01-14T14:58:27Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "hashgraph-online/llamaindex-registry-broker",
+      "url": "https://github.com/hashgraph-online/llamaindex-registry-broker",
+      "description": "LlamaIndex TypeScript tools for Universal AI Agent Discovery - 59,000+ agents across NANDA, MCP, A2A, Virtuals | https://hol.org",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushed_at": "2026-01-20T13:10:29Z",
+      "created_at": "2026-01-20T12:57:02Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Dhrumilshah77/AWS-AI-Builder-Hackathon-Operations-Intelligence-Agent",
+      "url": "https://github.com/Dhrumilshah77/AWS-AI-Builder-Hackathon-Operations-Intelligence-Agent",
+      "description": "AWS AI Builder Hackathon Lab: Craft with AI and Build with AI - Operations Intelligence Agent using LlamaIndex, Bedrock Knowledge Bases, and AgentCore",
+      "language": "HTML",
+      "stars": 0,
+      "pushed_at": "2026-02-15T00:08:56Z",
+      "created_at": "2026-02-14T23:26:57Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "adityadmore2000/NL-to-SQL",
+      "url": "https://github.com/adityadmore2000/NL-to-SQL",
+      "description": "Agentic Data-Querying Platform",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-02-23T05:20:43Z",
+      "created_at": "2026-02-23T05:20:40Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "andi586/cleanslate-pdf-engine",
+      "url": "https://github.com/andi586/cleanslate-pdf-engine",
+      "description": "CleanSlate Protocol (CSP) — AI-native document standardization layer for AI agents. Transform any document into structured, verifiable, semantically-rich format for LLM pipelines.",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushed_at": "2026-03-04T04:18:57Z",
+      "created_at": "2026-03-04T02:52:50Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "BjarniPeturFridjonsson/MultyLayeredRegulatoryRagAndAgents",
+      "url": "https://github.com/BjarniPeturFridjonsson/MultyLayeredRegulatoryRagAndAgents",
+      "description": " Production-grade multilingual AI compliance platform for EASA-regulated glider and SPL clubs. Three bounded agents —   Huginn, Nölva, Völundur — with hybrid RAG, Human-in-the-Loop SIB verification, five-layer guardrails, and full   regulatory citation tracing across Icelandic and English.",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-03-13T10:36:21Z",
+      "created_at": "2026-03-13T10:29:55Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "gmx369x/ai-agents-rag",
+      "url": "https://github.com/gmx369x/ai-agents-rag",
+      "description": "AI agent and RAG experiments — Agentic web search, ocument Q&A with retrieval-augmented generation",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "pushed_at": "2026-03-14T06:27:08Z",
+      "created_at": "2026-03-06T20:59:57Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Yaeli6858/agent-docs-rag",
+      "url": "https://github.com/Yaeli6858/agent-docs-rag",
+      "description": "An advanced Event-Driven RAG system designed to aggregate, index, and extract insights from AI Coding Agent documentation (Cursor, Claude Code, Kiro). Built with LlamaIndex, Cohere, and Pinecone, featuring semantic search, structured data extraction, and intelligent query routing.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-03-17T16:12:08Z",
+      "created_at": "2026-03-14T17:36:12Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "danilonok/omneA",
+      "url": "https://github.com/danilonok/omneA",
+      "description": "OmneA is a diploma project built on a multi-agent architecture powered by LLMs for comprehensive control and automation for the Windows Operating System.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-03-24T21:43:00Z",
+      "created_at": "2025-03-30T21:58:42Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "qhvssonic/memory-altas",
+      "url": "https://github.com/qhvssonic/memory-altas",
+      "description": "🎮 Game-engine inspired memory management for AI agents — predictive prefetching, frustum culling, LOD, three-tier caching. Zero dependencies, pip install and go.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-03-26T11:40:01Z",
+      "created_at": "2026-03-26T02:22:21Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Totbits-Solutions/llama-invoice-agent",
+      "url": "https://github.com/Totbits-Solutions/llama-invoice-agent",
+      "description": "AI-powered invoice processing agent that extracts structured data from PDFs using LlamaExtract and syncs them to your ERP. Built with LlamaIndex Workflows",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-06T23:03:44Z",
+      "created_at": "2026-04-01T23:14:37Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "sundar-paul/astra",
+      "url": "https://github.com/sundar-paul/astra",
+      "description": "Multi-agent AI system for grocery retail combining 5 frameworks — Google ADK (orchestration), LangGraph (customer support with human-in-the-loop), CrewAI (pricing optimization), LlamaIndex (RAG knowledge base), and NeMo Guardrails (safety) deployed on GCP Cloud Run with CI/CD, distributed tracing, and real-time monitoring.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-08T09:15:11Z",
+      "created_at": "2026-02-28T17:23:53Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "4nechoic-hub/rag-llm-workflow",
+      "url": "https://github.com/4nechoic-hub/rag-llm-workflow",
+      "description": "Three RAG architectures compared — manual, LangGraph agent, LlamaIndex — with evaluation harness, CrossEncoder reranking, and Streamlit demo",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-13T11:36:59Z",
+      "created_at": "2026-03-09T14:03:14Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "atryx/langchain-vs-llamaindex",
+      "url": "https://github.com/atryx/langchain-vs-llamaindex",
+      "description": "LangChain vs LlamaIndex compared — RAG pipelines, agents, data connectors, vector stores, and when to use each framework (2026)",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-04-15T09:58:59Z",
+      "created_at": "2026-04-15T09:57:22Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "VptrCipher/rag-production-system",
+      "url": "https://github.com/VptrCipher/rag-production-system",
+      "description": "🚀 Advanced, citation-aware RAG engine featuring Hybrid Search (Vector + BM25), Cohere Re-ranking, and Agentic decomposition. Built for high-precision, production-grade AI retrieval.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-19T06:59:47Z",
+      "created_at": "2026-03-20T17:01:22Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "x-glacialdream/ecommerce-agent",
+      "url": "https://github.com/x-glacialdream/ecommerce-agent",
+      "description": "Multi-tool AI agent platform for sales analytics, anomaly detection, expense audit, and internal knowledge retrieval.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-20T10:24:39Z",
+      "created_at": "2026-04-12T04:49:05Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "CharonK652302/Cortex-ai",
+      "url": "https://github.com/CharonK652302/Cortex-ai",
+      "description": "Production RAG app — LangChain LCEL, LlamaIndex, Crew.ai multi-agent, FAISS, FastAPI, Docker, MLflow evaluation, GitHub Actions CI, MCP server — zero paid APIs",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-24T03:10:30Z",
+      "created_at": "2026-03-29T04:53:33Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "cucuarce/rag-multi-agent-assistant",
+      "url": "https://github.com/cucuarce/rag-multi-agent-assistant",
+      "description": "AI RAG system with LlamaIndex, ChromaDB and Ollama for semantic search and contextual question answering over custom documents.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-30T15:12:58Z",
+      "created_at": "2026-04-30T14:44:03Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "RamseyvanderMeer/social-media-inference-bot",
+      "url": "https://github.com/RamseyvanderMeer/social-media-inference-bot",
+      "description": "Autonomous Grok/LlamaIndex research agent with hybrid retrieval, ChromaDB vector search, replanning, context compression, and evaluation metrics.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-02T00:18:42Z",
+      "created_at": "2026-01-22T06:35:25Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "carrey-Jin/M4-MCP-Agent",
+      "url": "https://github.com/carrey-Jin/M4-MCP-Agent",
+      "description": "A local-first, context-aware MCP server that gives Cursor persistent memory + private RAG, powered by Ollama.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-03T16:15:28Z",
+      "created_at": "2026-05-03T15:59:59Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "myeolinmalchi/AgentRef",
+      "url": "https://github.com/myeolinmalchi/AgentRef",
+      "description": "Type-driven externalization for LLM agent state. Prevents write amplification in LangGraph, LlamaIndex, AutoGen.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-05T06:16:20Z",
+      "created_at": "2026-05-02T13:05:38Z",
+      "license": null,
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "arenza-ai/arenza-llamaindex",
+      "url": "https://github.com/arenza-ai/arenza-llamaindex",
+      "description": "LlamaIndex.TS tools for Arenza — agent access to AI visibility metrics, GEO opportunities, brand mentions across ChatGPT/Claude/Gemini/Perplexity/Copilot/Grok",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushed_at": "2026-05-05T16:41:27Z",
+      "created_at": "2026-05-05T07:46:28Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "smara-io/api",
+      "url": "https://github.com/smara-io/api",
+      "description": "Memory API for AI agents — semantic search, Ebbinghaus decay scoring, knowledge graphs, MCP native. Drop-in mem0/Zep alternative. $19/mo vs $249+.",
+      "language": "HTML",
+      "stars": 0,
+      "pushed_at": "2026-05-07T04:01:20Z",
+      "created_at": "2026-03-25T04:01:37Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "adriansanthosh77-dev/Autonomous-sales-agent",
+      "url": "https://github.com/adriansanthosh77-dev/Autonomous-sales-agent",
+      "description": "A production-grade, autonomous GTM agent powered by a Model Context Protocol (MCP) server and 30+ specialized business agents.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-08T05:21:28Z",
+      "created_at": "2026-04-20T12:52:53Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "upstream1119/Verimind",
+      "url": "https://github.com/upstream1119/Verimind",
+      "description": "Trustworthy Agentic RAG prototype for scientific knowledge bases with multi-granularity retrieval, answer auditing, and conservative refusal.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-14T01:37:16Z",
+      "created_at": "2026-03-12T12:34:51Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "khaled-abdulaziz/Three-Layer-AI-Agent",
+      "url": "https://github.com/khaled-abdulaziz/Three-Layer-AI-Agent",
+      "description": "Multi-role AI agent system — customer service, HR portal & owner dashboard — built with LangGraph, GPT-4o, RAG, and ML predictions. Arabic + English support.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-19T19:49:58Z",
+      "created_at": "2026-05-19T12:31:47Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "jameslea/agents-learn",
+      "url": "https://github.com/jameslea/agents-learn",
+      "description": "Hands-on AI Agents examples covering LangGraph, RAG, multi-agent workflows, LlamaIndex, CrewAI, AutoGen, and smolagents.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-21T06:36:48Z",
+      "created_at": "2026-04-16T14:26:12Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Lzy930/ai-engineer-journey",
+      "url": "https://github.com/Lzy930/ai-engineer-journey",
+      "description": "AI engineer transition journey - weekly projects from CLI, RAG, agents to production apps.新能源制造业 IT 负责人 → AI 应用工程师转型实战记录",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-22T15:01:43Z",
+      "created_at": "2026-05-11T13:24:10Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "OpenThai/agent-frameworks",
+      "url": "https://github.com/OpenThai/agent-frameworks",
+      "description": "Thai-first guide to Agent Frameworks, runtimes, workflows, orchestration, and framework selection for AI Agents.",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-05-25T07:40:01Z",
+      "created_at": "2026-05-25T07:17:23Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "harrywinter06-code/clustertrace",
+      "url": "https://github.com/harrywinter06-code/clustertrace",
+      "description": "Local-first LLM agent observability that clusters traces by execution pattern and surfaces which clusters fail. Decorator, SDK wrappers, or OpenTelemetry. SQLite-backed.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-25T10:37:27Z",
+      "created_at": "2026-05-21T01:49:46Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "dcash10181-gh/agentic-systems-codex",
+      "url": "https://github.com/dcash10181-gh/agentic-systems-codex",
+      "description": "Agentic Systems: The Cybernetic Workflow Codex is a 50‑page field guide for building the next generation of AI systems. Crafted by AI architect Duane Cash, this dark‑mode, cyberpunk‑inspired PDF teaches you how to design, orchestrate and deploy agentic workflows.",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-05-27T19:05:06Z",
+      "created_at": "2026-05-26T21:53:15Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "api-evangelist/tavily",
+      "url": "https://github.com/api-evangelist/tavily",
+      "description": "Tavily — search API optimized for LLMs and agents",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-02T12:41:16Z",
+      "created_at": "2026-05-23T16:40:58Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "api-evangelist/zep",
+      "url": "https://github.com/api-evangelist/zep",
+      "description": "Zep — memory + temporal knowledge graph for AI agents",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-02T12:42:25Z",
+      "created_at": "2026-05-23T16:40:54Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "DamienNerri/local-rag-agent",
+      "url": "https://github.com/DamienNerri/local-rag-agent",
+      "description": "Local RAG agent — Q&A sur vos documents PDF via LLM local (Ollama + Qdrant + LlamaIndex), 100% offline, dockerisé",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-04T07:44:47Z",
+      "created_at": "2026-06-03T09:36:45Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "malvavisc0/aria-ai",
+      "url": "https://github.com/malvavisc0/aria-ai",
+      "description": "Your Local AI Assistant with Multi-Agent Intelligence",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-09T22:41:24Z",
+      "created_at": "2025-04-16T20:26:55Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Tempguru-co/llama-index-tools-tempguru",
+      "url": "https://github.com/Tempguru-co/llama-index-tools-tempguru",
+      "description": "TempGuru event staffing tools for LlamaIndex agents: coverage, W-2 rates, lead times, and state labor compliance for 345+ US/CA cities. No API key.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-10T17:50:07Z",
+      "created_at": "2026-06-10T12:05:14Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ArtLjn/AgentDesk",
+      "url": "https://github.com/ArtLjn/AgentDesk",
+      "description": "AI Agent Development Engineer Learning Roadmap - 8-week systematic learning path with 3 progressive projects (Basic Agents, RAG Systems, Multi-Agent Systems)",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-11T02:49:54Z",
+      "created_at": "2026-05-12T09:25:14Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "aiexponenthq/rag-benchmarking",
+      "url": "https://github.com/aiexponenthq/rag-benchmarking",
+      "description": "RAG Benchmarking — Framework-agnostic RAG/agentic-AI evaluation harness. Faithfulness, agentic metrics, EU AI Act Article 15 accuracy evidence. Apache 2.0.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-12T07:17:09Z",
+      "created_at": "2025-08-12T18:41:53Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "tappass/tappass-examples",
+      "url": "https://github.com/tappass/tappass-examples",
+      "description": "Integration examples for TapPass AI agent governance. CrewAI, LangChain, LlamaIndex, n8n, FastAPI, Docker, Kubernetes.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-12T16:24:04Z",
+      "created_at": "2026-03-15T19:31:00Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "abdul4rehman215/Hugging-Face-AI-Learning-Portfolio",
+      "url": "https://github.com/abdul4rehman215/Hugging-Face-AI-Learning-Portfolio",
+      "description": "A documentation-first portfolio of my completed Hugging Face learning journey across Agents, LLM, and MCP, featuring practical implementations, certificates, notes, and production-style AI automation workflows.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-13T06:17:59Z",
+      "created_at": "2026-03-24T10:39:04Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "samarth1412/Context-Trace",
+      "url": "https://github.com/samarth1412/Context-Trace",
+      "description": "Local-first SDK and CLI for debugging RAG failures, verifying citations, classifying failure modes, and generating reliability reports for user-built RAG and AI agent systems.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-13T06:36:59Z",
+      "created_at": "2026-05-31T18:39:07Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "familyoctopodidaewhitebarkedpine161/veritas",
+      "url": "https://github.com/familyoctopodidaewhitebarkedpine161/veritas",
+      "description": "Verifies AI outputs with multi-agent checks for hallucinations, RAG errors, and risky actions",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-15T06:00:18Z",
+      "created_at": "2026-04-20T00:19:01Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    }
+  ]
+}

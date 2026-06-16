@@ -1,0 +1,59 @@
+{
+  "category": "smolagents",
+  "title": "Smolagents",
+  "count": 3,
+  "repos": [
+    {
+      "owner_repo": "huggingface/smolagents",
+      "url": "https://github.com/huggingface/smolagents",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "samwit/smolagents_examples",
+      "url": "https://github.com/samwit/smolagents_examples",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "jameslea/agents-learn",
+      "url": "https://github.com/jameslea/agents-learn",
+      "description": "Hands-on AI Agents examples covering LangGraph, RAG, multi-agent workflows, LlamaIndex, CrewAI, AutoGen, and smolagents.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-21T06:36:48Z",
+      "created_at": "2026-04-16T14:26:12Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    }
+  ]
+}

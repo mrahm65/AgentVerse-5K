@@ -1,0 +1,1043 @@
+{
+  "category": "agno",
+  "title": "Agno",
+  "count": 70,
+  "repos": [
+    {
+      "owner_repo": "droidrun/mobilerun",
+      "url": "https://github.com/droidrun/mobilerun",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖",
+      "language": "Python",
+      "stars": 8545,
+      "pushed_at": "2026-06-11T22:00:33Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:ai-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "TanStack/ai",
+      "url": "https://github.com/TanStack/ai",
+      "description": "🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.",
+      "language": "TypeScript",
+      "stars": 2776,
+      "forks": 236,
+      "pushed_at": "2026-06-13T08:43:07Z",
+      "created_at": "2025-10-08T17:52:48Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:openai (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "first-fluke/oh-my-agent",
+      "url": "https://github.com/first-fluke/oh-my-agent",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
+      "language": "TypeScript",
+      "stars": 1082,
+      "pushed_at": "2026-06-13T08:45:38Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:multi-agent",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "Prof-Harita/terminaI",
+      "url": "https://github.com/Prof-Harita/terminaI",
+      "description": "Open-source, local-first alternative to Cowork-style computer assistants: real PTY terminal ops, explicit approvals, JSONL audit logs. Windows + Linux + macOS. Model agnostic.",
+      "language": "TypeScript",
+      "stars": 414,
+      "forks": 38,
+      "pushed_at": "2026-06-13T20:17:44Z",
+      "created_at": "2025-12-23T20:25:17Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:ai-agent (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "scitix/siclaw",
+      "url": "https://github.com/scitix/siclaw",
+      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
+      "language": "TypeScript",
+      "stars": 213,
+      "pushed_at": "2026-06-15T08:39:46Z",
+      "created_at": "2026-03-02T04:31:11Z",
+      "license": "Apache-2.0",
+      "source_query": "llm agent language:TypeScript pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Kyros-494/kyros-ai",
+      "url": "https://github.com/Kyros-494/kyros-ai",
+      "description": "Kyros — The Memory OS for AI Agents  Give your AI agents secure, self-correcting, persistent memory in 3 lines of code.  Three memory types (episodic, semantic, procedural) with built-in forgetting curves, cryptographic integrity, and automatic contradiction resolution. Model-agnostic REST API with Python and TypeScript SDKs.",
+      "language": "Python",
+      "stars": 90,
+      "pushed_at": "2026-06-14T09:14:09Z",
+      "created_at": "2026-05-01T07:17:08Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "alloy-ex/alloy",
+      "url": "https://github.com/alloy-ex/alloy",
+      "description": "Model-agnostic agent harness for Elixir",
+      "language": "Elixir",
+      "stars": 75,
+      "forks": 7,
+      "pushed_at": "2026-05-05T23:08:06Z",
+      "created_at": "2026-02-26T04:18:38Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:tool-use (page 1)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "CONSTELLATION-ENGINE/constellation-engine",
+      "url": "https://github.com/CONSTELLATION-ENGINE/constellation-engine",
+      "description": "Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living star map with spreading activation, Hebbian writeback, episodic recall, and post-turn consolidation. Local-first, model-agnostic, AGPL.",
+      "language": "JavaScript",
+      "stars": 60,
+      "forks": 10,
+      "pushed_at": "2026-06-13T04:46:43Z",
+      "created_at": "2026-05-15T06:59:23Z",
+      "archived": false,
+      "license": "AGPL-3.0",
+      "source_query": "topic:llm-agent (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Oaklight/ToolRegistry",
+      "url": "https://github.com/Oaklight/ToolRegistry",
+      "description": "ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, LangChain, MCP)",
+      "language": "Python",
+      "stars": 59,
+      "forks": 7,
+      "pushed_at": "2026-06-13T04:45:35Z",
+      "created_at": "2025-03-21T14:39:27Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:function-calling (page 1)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "loquix-dev/loquix",
+      "url": "https://github.com/loquix-dev/loquix",
+      "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
+      "language": "TypeScript",
+      "stars": 33,
+      "forks": 2,
+      "pushed_at": "2026-05-08T16:49:45Z",
+      "created_at": "2026-03-08T21:58:16Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llm-agent (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "ashishpatel26/omnicache-ai",
+      "url": "https://github.com/ashishpatel26/omnicache-ai",
+      "description": "Unified multi-layer caching library for AI/agent pipelines — LangChain, LangGraph, AutoGen, CrewAI, Agno, A2A",
+      "language": "Python",
+      "stars": 28,
+      "forks": 8,
+      "pushed_at": "2026-06-04T11:35:19Z",
+      "created_at": "2026-03-21T11:30:01Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:crewai (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Tyler-KD/multi-model-AI-assistant-medical-bot",
+      "url": "https://github.com/Tyler-KD/multi-model-AI-assistant-medical-bot",
+      "description": "RAG-enabled multi-agentic system for medical diagnosis and assistance",
+      "language": "Python",
+      "stars": 21,
+      "pushed_at": "2026-03-08T07:03:51Z",
+      "created_at": "2023-11-07T05:02:14Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Bobby-Gray/open-tabletop-gm",
+      "url": "https://github.com/Bobby-Gray/open-tabletop-gm",
+      "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as reference system — add any TTRPG via a system module.",
+      "language": "Python",
+      "stars": 21,
+      "forks": 2,
+      "pushed_at": "2026-06-11T07:07:26Z",
+      "created_at": "2026-04-16T17:37:35Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "source_query": "topic:llm-agent (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "esanmohammad/Anvil",
+      "url": "https://github.com/esanmohammad/Anvil",
+      "description": "Provider-agnostic AI dev pipeline: clarify → plan → build → review → PR across your repos, mixing LLM providers per stage with your own keys. No vendor lock-in, no markup.",
+      "language": "TypeScript",
+      "stars": 16,
+      "forks": 3,
+      "pushed_at": "2026-06-12T07:18:24Z",
+      "created_at": "2026-04-17T15:13:43Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llmops (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "CoderofTheWest/openclaw-plugin-stability",
+      "url": "https://github.com/CoderofTheWest/openclaw-plugin-stability",
+      "description": "Agent stability, introspection & anti-drift framework for OpenClaw. Shannon entropy monitoring, confabulation detection, loop guards, principle-aligned growth tracking, and structured heartbeat decisions. Model-agnostic — works with Claude, GPT, Gemini, DeepSeek, or any LLM. Define your principles, the math enforces alignment.",
+      "language": "JavaScript",
+      "stars": 11,
+      "pushed_at": "2026-03-01T22:47:27Z",
+      "created_at": "2026-02-16T03:32:05Z",
+      "license": "MIT",
+      "source_query": "agent framework gpt pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "devwithmohit/ai-agent-architecture-patterns",
+      "url": "https://github.com/devwithmohit/ai-agent-architecture-patterns",
+      "description": "Production-grade architecture patterns, decision frameworks, and best  practices for building reliable AI agents. Framework-agnostic reference  for engineers.",
+      "language": null,
+      "stars": 10,
+      "pushed_at": "2026-01-31T06:23:33Z",
+      "created_at": "2026-01-27T14:45:47Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "abhinavg6/yutha",
+      "url": "https://github.com/abhinavg6/yutha",
+      "description": "Open-source infrastructure for groups of AI agents — identity, capability, accountability, and norms. Framework-agnostic.",
+      "language": "Rust",
+      "stars": 10,
+      "forks": 1,
+      "pushed_at": "2026-06-12T17:24:47Z",
+      "created_at": "2026-05-11T21:28:43Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:crewai (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "10mudassir007/Agentic-Systems",
+      "url": "https://github.com/10mudassir007/Agentic-Systems",
+      "description": " A go-to repository for building web search agents and multi-agent systems using LangChain, LangGraph, Phidata/Agno, Pydantic, and CrewAI. It includes a multi-agent email response agent, LLaMA OCR, and a multi-agent travel planner, enabling autonomous and intelligent workflows. 🚀",
+      "language": "Jupyter Notebook",
+      "stars": 9,
+      "pushed_at": "2026-06-14T16:02:00Z",
+      "created_at": "2024-11-24T06:11:36Z",
+      "license": null,
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "hadihonarvar/lynx",
+      "url": "https://github.com/hadihonarvar/lynx",
+      "description": "Framework-agnostic policy-gated durable execution for AI agents. Every tool call gets a YAML policy check, a checkpoint, and a hash-chained audit event.",
+      "language": "Python",
+      "stars": 8,
+      "pushed_at": "2026-06-12T17:05:20Z",
+      "created_at": "2026-06-09T21:37:30Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "nerellasraj21/ai_governance_framework",
+      "url": "https://github.com/nerellasraj21/ai_governance_framework",
+      "description": "LLM-agnostic 11-agent orchestration framework for AI-assisted software delivery. Contributions welcome.",
+      "language": "Shell",
+      "stars": 5,
+      "pushed_at": "2026-04-22T12:20:18Z",
+      "created_at": "2026-02-26T05:40:48Z",
+      "license": "MIT",
+      "source_query": "agent framework gpt pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "FrancescoStabile/omnigent",
+      "url": "https://github.com/FrancescoStabile/omnigent",
+      "description": "Universal autonomous agent framework with ReAct loop, multi-provider LLM routing, reasoning graph, and MCP integration, domain-agnostic for building specialized AI agents.",
+      "language": "Python",
+      "stars": 4,
+      "forks": 2,
+      "pushed_at": "2026-02-14T14:24:55Z",
+      "created_at": "2026-02-11T14:49:00Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:autonomous-agent (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "NeuroForgeLabs/rag-doctor",
+      "url": "https://github.com/NeuroForgeLabs/rag-doctor",
+      "description": "🩺 RAG Doctor — Open-source diagnostic tool for Retrieval-Augmented Generation (RAG) systems. Analyzes codebases to detect architectural issues in LLM pipelines such as missing retrieval, bad chunking, embedding mismatches, and vector database misuse.",
+      "language": "JavaScript",
+      "stars": 4,
+      "forks": 0,
+      "pushed_at": "2026-03-13T09:56:03Z",
+      "created_at": "2026-03-13T06:26:54Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "karstom/simplegraph-agentic",
+      "url": "https://github.com/karstom/simplegraph-agentic",
+      "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
+      "language": "Shell",
+      "stars": 4,
+      "pushed_at": "2026-06-05T00:10:21Z",
+      "created_at": "2026-04-13T19:03:20Z",
+      "license": "MIT",
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "agentbreeder/agentbreeder",
+      "url": "https://github.com/agentbreeder/agentbreeder",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Define Once. Deploy Anywhere. Govern Automatically. Framework-agnostic platform to build, deploy & govern enterprise AI agents — LangGraph · CrewAI · Claude SDK · OpenAI Agents · Google ADK · AWS · GCP · Azure · K8s · RBAC · A2A · MCP",
+      "language": "Python",
+      "stars": 4,
+      "pushed_at": "2026-06-12T23:37:53Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:openai-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "kenGucci/automatic-maintenance",
+      "url": "https://github.com/kenGucci/automatic-maintenance",
+      "description": "Automatic Maintenance is an autonomous AI agent designed to monitor, diagnose, and optimize systems without constant human intervention. It proactively detects issues, performs routine maintenance tasks, tracks performance metrics, and recommends or executes fixes before problems escalate. ",
+      "language": "HTML",
+      "stars": 4,
+      "pushed_at": "2026-06-13T15:34:42Z",
+      "created_at": "2026-06-01T20:59:51Z",
+      "license": "ISC",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "saieeshward/clan",
+      "url": "https://github.com/saieeshward/clan",
+      "description": "Not a framework. A file format for agent-to-agent handoffs — provenance, parallel safety, and human visibility by design. Model-agnostic. Framework-agnostic. Open spec, MPL-2.0.",
+      "language": "Rust",
+      "stars": 4,
+      "pushed_at": "2026-06-14T17:15:07Z",
+      "created_at": "2026-05-29T00:43:11Z",
+      "license": "MPL-2.0",
+      "source_query": "llm agent language:Rust pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "theislampill/daee-epistemics",
+      "url": "https://github.com/theislampill/daee-epistemics",
+      "description": "A modular LLM skill for epistemic operations and noetic analysis: a cognitive-security framework (SOC) for classifying discourse and diagnosing orientation, deformation, and concealment; routing engagements through matched case modules and tactics, techniques, and procedures (TTPs), grounded in sound reason and normative disposition.",
+      "language": "Python",
+      "stars": 4,
+      "pushed_at": "2026-06-15T09:44:49Z",
+      "created_at": "2026-04-14T20:01:24Z",
+      "license": null,
+      "source_query": "topic:agentic-ai created:>2025-09-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "fatecannotbealtered/archery-cli",
+      "url": "https://github.com/fatecannotbealtered/archery-cli",
+      "description": "A CLI for AI agents to manage Archery SQL audit platform — workflows, queries, instances, diagnostics, binlog, and data dictionary. Structured output and composable commands, built for LLM tool use.",
+      "language": "Go",
+      "stars": 3,
+      "pushed_at": "2026-06-14T13:44:18Z",
+      "created_at": "2026-06-07T19:26:09Z",
+      "license": "MIT",
+      "source_query": "llm agent language:Go pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "YASSERRMD/barq-coder",
+      "url": "https://github.com/YASSERRMD/barq-coder",
+      "description": "Autonomous AI coding agent in Rust — model-agnostic (13 providers), local-first, terminal UI, multi-agent swarm",
+      "language": "Rust",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-12T09:27:12Z",
+      "created_at": "2026-02-20T10:04:21Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:react-agent (page 1, sort stars)",
+      "_sources": [
+        "V3"
+      ]
+    },
+    {
+      "owner_repo": "wjixiang/dendrite",
+      "url": "https://github.com/wjixiang/dendrite",
+      "description": "An AI-native KMS and next-gen RAG prototype. Enforces strict tree-shaped index constraints and compiler-like diagnostics after every write, enabling agents to self-heal knowledge structures and eliminate garbage-in, garbage-out RAG pain points.",
+      "language": "Rust",
+      "stars": 2,
+      "pushed_at": "2026-06-13T13:02:50Z",
+      "created_at": "2026-06-03T16:03:52Z",
+      "license": null,
+      "source_query": "llm agent language:Rust pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "codebyangelo/project-mantis",
+      "url": "https://github.com/codebyangelo/project-mantis",
+      "description": "Project Mantis is an autonomous DFIR framework for the SIFT Workstation. It orchestrates Volatility 3 and FLS using an LLM-Agnostic multi-agent FSM. By enforcing a deterministic Sieve and a strict \"Hard Grounding\" citation layer, Mantis minimizes LLM hallucinations to produce fully traceable, self-correcting MITRE ATT&CK incident reports.",
+      "language": "Python",
+      "stars": 2,
+      "pushed_at": "2026-06-13T14:31:22Z",
+      "created_at": "2026-06-12T19:38:00Z",
+      "license": "Apache-2.0",
+      "source_query": "autonomous agent llm pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Mayank-glitch-cpu/JobSync-Service",
+      "url": "https://github.com/Mayank-glitch-cpu/JobSync-Service",
+      "description": "An agentic job-search copilot that uses your own MCP client (Claude Desktop, Claude Code, Cursor) to discover, classify, and sync fresh job postings into your own Airtable base — or a local markdown file. Model-agnostic: you bring the LLM, JobSync handles the plumbing.",
+      "language": "TypeScript",
+      "stars": 2,
+      "pushed_at": "2026-06-15T02:19:02Z",
+      "created_at": "2026-01-29T20:35:50Z",
+      "license": "NOASSERTION",
+      "source_query": "llm agent language:TypeScript pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "unhealthy-outlander317/context-doctor",
+      "url": "https://github.com/unhealthy-outlander317/context-doctor",
+      "description": "Visualize and diagnose OpenClaw context windows to identify token usage, file health, and available space for conversation.",
+      "language": "Python",
+      "stars": 2,
+      "pushed_at": "2026-06-15T09:30:26Z",
+      "created_at": "2026-03-21T06:31:14Z",
+      "license": "MIT",
+      "source_query": "topic:agentic-ai created:>2025-09-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "yubinkim444/agentwatch",
+      "url": "https://github.com/yubinkim444/agentwatch",
+      "description": "React DevTools for browser AI agents. Translucent overlay on every tab shows your agent's goal, last action, and next action — live, framework-agnostic.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-05-20T10:25:29Z",
+      "created_at": "2026-05-18T18:28:34Z",
+      "license": "MIT",
+      "source_query": "topic:browser-agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "reza-ariyan/agentry",
+      "url": "https://github.com/reza-ariyan/agentry",
+      "description": "Lightweight, provider-agnostic agentic tool-use loop for .NET. Define your tools; the engine runs the model/tool loop. A from-scratch reference implementation.",
+      "language": "C#",
+      "stars": 1,
+      "pushed_at": "2026-06-01T23:23:54Z",
+      "created_at": "2026-06-01T17:17:08Z",
+      "license": "MIT",
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "SeydinaBANE/agent-tel",
+      "url": "https://github.com/SeydinaBANE/agent-tel",
+      "description": "Agent téléphonique IA entrant/sortant — Agno 2.6.8, FastAPI, Twilio Media Streams, Whisper STT, edge-tts/ElevenLabs TTS, streaming LLM→TTS, multi-agents, mémoire client, escalade humain",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-02T16:55:01Z",
+      "created_at": "2026-05-20T11:26:57Z",
+      "license": "MIT",
+      "source_query": "topic:voice-agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "avasec/TreeLens",
+      "url": "https://github.com/avasec/TreeLens",
+      "description": "Server-side, diff-synced mirror of a host's live hierarchy — a host-agnostic pattern for building MCP servers over apps with large mutable trees (Photoshop, Figma, Unity, ...).",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-03T13:07:51Z",
+      "created_at": "2026-05-28T21:25:42Z",
+      "license": "MIT",
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "kangbaxso/agent-forge",
+      "url": "https://github.com/kangbaxso/agent-forge",
+      "description": "A tiny, provider-agnostic framework for building tool-using AI agents in Python. Works with any OpenAI-compatible endpoint.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-07T10:10:18Z",
+      "created_at": "2026-06-07T09:57:55Z",
+      "license": "MIT",
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "OpsZhu/ops-agent",
+      "url": "https://github.com/OpsZhu/ops-agent",
+      "description": "🤖 AI-powered server alert diagnosis agent with multi-round agentic reasoning (ReAct loop). 基于通义千问/Qwen            大模型的智能运维诊断系统，自主决策诊断路径、根因分析。AIOps ·LLM Agent ·DevOps ·SRE ·故障自愈 ·Webhook 告警 ·      Prometheus / Zabbix / 飞书集成 ·100+ 安全白名单命令 ·Python ·Flask ",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-09T03:29:35Z",
+      "created_at": "2026-06-05T10:17:05Z",
+      "license": "MIT",
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "happli-sys/AgentTrace",
+      "url": "https://github.com/happli-sys/AgentTrace",
+      "description": "ai agent trace, Open-source runtime tracing and diagnostics for AI agent execution flows",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-10T08:36:38Z",
+      "created_at": "2026-06-09T12:47:28Z",
+      "license": "MIT",
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "tachyon-r/maximal-utility-agent-soul",
+      "url": "https://github.com/tachyon-r/maximal-utility-agent-soul",
+      "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
+      "language": null,
+      "stars": 1,
+      "pushed_at": "2026-06-10T10:54:26Z",
+      "created_at": "2026-06-07T14:08:02Z",
+      "license": "MIT",
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "rohithkandula19/Ronin",
+      "url": "https://github.com/rohithkandula19/Ronin",
+      "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq, and Ollama. Provider-agnostic with evals, memory, security hardening, 200+ plugins, and MCP. MIT.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-11T17:53:33Z",
+      "created_at": "2026-05-08T15:35:46Z",
+      "license": "MIT",
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "jaylfc/dialtone",
+      "url": "https://github.com/jaylfc/dialtone",
+      "description": "Give your AI agent a mouth, ears, and a phone number. Framework-agnostic VoIP/IVR service with Twilio — plug in any agent backend (Hermes, OpenAI, Ollama, etc).",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-12T21:06:59Z",
+      "created_at": "2026-06-06T21:03:00Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:voice-agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Riograndekalansuwa2670/acp-sdk-zig",
+      "url": "https://github.com/Riograndekalansuwa2670/acp-sdk-zig",
+      "description": "Implement the Agent Client Protocol in Zig with allocator-aware types, schema generation, and transport-agnostic tools for coding agents.",
+      "language": "Zig",
+      "stars": 1,
+      "pushed_at": "2026-06-15T06:12:30Z",
+      "created_at": "2026-05-06T08:23:13Z",
+      "license": "MIT",
+      "source_query": "topic:coding-agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "knortzwellez/shellguard",
+      "url": "https://github.com/knortzwellez/shellguard",
+      "description": "🛡️ Enable secure, read-only SSH access for LLM agents to audit servers, run diagnostics, and inspect logs without risking data changes.",
+      "language": "Go",
+      "stars": 1,
+      "pushed_at": "2026-06-15T09:12:46Z",
+      "created_at": "2026-02-23T12:58:36Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:mcp-server pushed:>2026-01-01",
+      "_sources": [
+        "new161"
+      ]
+    },
+    {
+      "owner_repo": "devops-ia/helm-engram",
+      "url": "https://github.com/devops-ia/helm-engram",
+      "description": "Helm chart for Engram - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "language": "HTML",
+      "stars": 1,
+      "pushed_at": "2026-06-15T09:17:58Z",
+      "created_at": "2026-05-12T07:07:45Z",
+      "license": "MIT",
+      "source_query": "topic:agentic-ai created:>2025-09-01",
+      "_sources": [
+        "new161"
+      ]
+    },
+    {
+      "owner_repo": "brucekumar/opik-openclaw",
+      "url": "https://github.com/brucekumar/opik-openclaw",
+      "description": "Export OpenClaw agent traces to monitoring systems for improved observability and diagnostic insights.",
+      "language": "TypeScript",
+      "stars": 1,
+      "pushed_at": "2026-06-15T09:26:00Z",
+      "created_at": "2026-03-14T19:14:39Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:mcp-server pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "molokoloco/pc-optim",
+      "url": "https://github.com/molokoloco/pc-optim",
+      "description": "Diagnostic Windows read-only piloté par l'IA (skill Claude Code) : 6 scans → rapport MD + PDF. L'agent mesure, tu décides — il ne supprime jamais rien.",
+      "language": "PowerShell",
+      "stars": 1,
+      "pushed_at": "2026-06-15T09:39:01Z",
+      "created_at": "2026-06-14T20:39:51Z",
+      "license": "MIT",
+      "source_query": "topic:ai-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "agno-agi/agent-api",
+      "url": "https://github.com/agno-agi/agent-api",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "agno-agi/agno",
+      "url": "https://github.com/agno-agi/agno",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "agno-agi/phidata",
+      "url": "https://github.com/agno-agi/phidata",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "suspicious-cow/swarm-chat",
+      "url": "https://github.com/suspicious-cow/swarm-chat",
+      "description": "Real-time deliberation platform where LLM-powered surrogate agents relay insights across subgroups. Provider-agnostic — swap between Gemini, OpenAI, DeepSeek, Mistral, Anthropic, or any OpenAI-compatible endpoint via env vars.",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushed_at": "2026-02-20T00:44:59Z",
+      "created_at": "2026-02-14T12:32:12Z",
+      "license": null,
+      "source_query": "openai agent .env pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Anshul619/llm-agent-kit",
+      "url": "https://github.com/Anshul619/llm-agent-kit",
+      "description": "A lightweight, provider-agnostic AI agent with tool calling support for Anthropic, Google Gemini, and OpenAI. Switch providers via CLI or env var.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-02-22T18:16:47Z",
+      "created_at": "2026-02-22T14:19:41Z",
+      "license": null,
+      "source_query": "openai agent .env pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Rahulkumar010/log-session-skill",
+      "url": "https://github.com/Rahulkumar010/log-session-skill",
+      "description": "Platform-agnostic agent skill for logging AI sessions across Claude, MCP, Codex, and multi-agent systems.",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-05-20T05:21:45Z",
+      "created_at": "2026-04-06T16:55:30Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "cebustama/bcs-llm-core",
+      "url": "https://github.com/cebustama/bcs-llm-core",
+      "description": "Provider-agnostic LLM client core for Unity (OpenAI v0) with agent assets, editor wizard, env setup, and token/cost estimation.",
+      "language": "C#",
+      "stars": 0,
+      "pushed_at": "2026-05-28T21:42:46Z",
+      "created_at": "2026-01-03T14:14:37Z",
+      "license": null,
+      "source_query": "openai agent .env pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "liu1700/scoutkit",
+      "url": "https://github.com/liu1700/scoutkit",
+      "description": "Tool-call-ready data-source clients for AI agents: Twitter/X, YouTube, Reddit, Hacker News, Google SERP (Serper), Exa, Tavily & Apify (TikTok). Framework-agnostic core + Vercel AI SDK / OpenAI / Anthropic / MCP adapters. Keys load from .env.",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushed_at": "2026-05-31T01:52:14Z",
+      "created_at": "2026-05-31T01:52:11Z",
+      "license": "MIT",
+      "source_query": "openai agent .env pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "mamathasu3110/youtube-video-to-a-blog-using-ai",
+      "url": "https://github.com/mamathasu3110/youtube-video-to-a-blog-using-ai",
+      "description": "YouTube → Blog — Full-stack app that turns YouTube videos into SEO-ready blog posts using a multi-agent AI pipeline. FastAPI + React fetch captions, then agents generate title, meta, body, conclusion, and Markdown. LLM-agnostic: Ollama, OpenAI, Gemini, Groq, and more via .env.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-04T10:09:26Z",
+      "created_at": "2026-06-04T09:49:13Z",
+      "license": null,
+      "source_query": "openai agent .env pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Charbelto/loopguard",
+      "url": "https://github.com/Charbelto/loopguard",
+      "description": "A framework-agnostic, zero-dependency semantic and structural loop detector for AI/LLM agents (LangChain, LangGraph, CrewAI, Autogen). Prevents infinite execution and reasoning oscillation cycles.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-05T14:17:12Z",
+      "created_at": "2026-06-05T13:29:33Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "satapathyPro/multi-agent-conversation-for-disease-diagnosis",
+      "url": "https://github.com/satapathyPro/multi-agent-conversation-for-disease-diagnosis",
+      "description": "Research-backed multi-agent LLM framework for rare disease diagnosis using Autogen — published preprint on Research Square",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-08T00:25:48Z",
+      "created_at": "2026-06-05T02:40:16Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ashutoshrana/confidence-escalation",
+      "url": "https://github.com/ashutoshrana/confidence-escalation",
+      "description": "Framework-agnostic confidence-gated escalation middleware for LLM agents: multi-signal scoring (logprob, verbalized, tool risk), threshold policies, and escalation handlers for LangChain, CrewAI, AutoGen, and Google ADK.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-08T10:14:54Z",
+      "created_at": "2026-04-25T20:46:22Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "KE-NETIZEN-OOPS/agent-foundry",
+      "url": "https://github.com/KE-NETIZEN-OOPS/agent-foundry",
+      "description": "Typed, provider-agnostic framework for multi-agent systems in TypeScript — Anthropic/OpenAI/Mock adapters, typed tools, planner-worker-critic orchestration, eval harness.",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushed_at": "2026-06-11T07:54:15Z",
+      "created_at": "2026-06-11T07:54:11Z",
+      "license": "MIT",
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "aiexponenthq/rag-benchmarking",
+      "url": "https://github.com/aiexponenthq/rag-benchmarking",
+      "description": "RAG Benchmarking — Framework-agnostic RAG/agentic-AI evaluation harness. Faithfulness, agentic metrics, EU AI Act Article 15 accuracy evidence. Apache 2.0.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-12T07:17:09Z",
+      "created_at": "2025-08-12T18:41:53Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "prismal-ai/prismal",
+      "url": "https://github.com/prismal-ai/prismal",
+      "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-14T17:51:03Z",
+      "created_at": "2026-05-22T01:59:38Z",
+      "license": "MIT",
+      "source_query": "topic:agent-framework created:>2025-06-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Dream-Pixels-Forge/memorius",
+      "url": "https://github.com/Dream-Pixels-Forge/memorius",
+      "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory with a hierarchical knowledge organization. Drop-in with multi-backend vector storage, pluggable embeddings, built-in MCP + REST servers, and auto-detecting agent hooks for 7 different AI coding agents.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-14T21:47:39Z",
+      "created_at": "2026-06-04T18:39:51Z",
+      "license": "MIT",
+      "source_query": "topic:agent-framework created:>2025-06-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "naveenkumarbaskaran/wire-ai",
+      "url": "https://github.com/naveenkumarbaskaran/wire-ai",
+      "description": "🔌 Framework-agnostic governance for AI agents — HIRE · LoopGuard · HITLGate · SLATracker · AuditChain · SOC-2/HIPAA · LangGraph/CrewAI/AutoGen/OpenAI/Foundry",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-15T04:15:43Z",
+      "created_at": "2026-06-12T05:20:35Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Tommyvr7/meta-ads-analyzer",
+      "url": "https://github.com/Tommyvr7/meta-ads-analyzer",
+      "description": "Analyze Meta Ads campaigns with expert-level diagnostics, live data access, and detailed reports using Meta's system mechanics and official references.",
+      "language": "Shell",
+      "stars": 0,
+      "pushed_at": "2026-06-15T09:23:10Z",
+      "created_at": "2025-09-10T18:08:01Z",
+      "license": "MIT",
+      "source_query": "topic:mcp-server pushed:>2026-01-01",
+      "_sources": [
+        "new161"
+      ]
+    },
+    {
+      "owner_repo": "Andrianagnostic63/markapatent-mcp",
+      "url": "https://github.com/Andrianagnostic63/markapatent-mcp",
+      "description": "Provide programmatic access to TÜRKPATENT’s trademark, patent, and design databases through a standardized MCP server for IP research tools.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-15T09:33:20Z",
+      "created_at": "2026-03-24T03:40:30Z",
+      "license": null,
+      "source_query": "topic:ai-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "alfasmartagency-droid/rag-doctor",
+      "url": "https://github.com/alfasmartagency-droid/rag-doctor",
+      "description": "Diagnose and debug Retrieval Augmented Generation pipelines by analyzing traces to identify and fix issues affecting answer quality and relevance.",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-15T09:34:34Z",
+      "created_at": "2026-03-26T06:58:11Z",
+      "license": null,
+      "source_query": "topic:agentic-ai created:>2025-09-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ocular-buffercountry141/agent-skill-bus",
+      "url": "https://github.com/ocular-buffercountry141/agent-skill-bus",
+      "description": "Monitor, diagnose, and repair AI agent skills with runtime health checks, self-improvement, and dependency management for any agent framework",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-15T09:37:56Z",
+      "created_at": "2026-04-02T07:51:42Z",
+      "license": null,
+      "source_query": "topic:langgraph pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "zynax-io/zynax",
+      "url": "https://github.com/zynax-io/zynax",
+      "description": "Declarative, cloud-native, engine-agnostic control plane for AI agent workflows",
+      "language": "Go",
+      "stars": 0,
+      "pushed_at": "2026-06-15T09:41:05Z",
+      "created_at": "2026-04-20T10:38:03Z",
+      "license": null,
+      "source_query": "topic:langgraph pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "category": "haystack",
+  "title": "Haystack",
+  "count": 6,
+  "repos": [
+    {
+      "owner_repo": "maximem-ai/maximem_synap_sdk",
+      "url": "https://github.com/maximem-ai/maximem_synap_sdk",
+      "description": "Maximem Synap is the memory layer that makes AI agents remember. 92% LongMemEval, 93.2% on LOCOMO. Works natively with LangChain, LlamaIndex, CrewAI, Google ADK, AutoGen, OpenAI Agents, Semantic Kernel, Haystack, and Pydantic AI.",
+      "language": "Python",
+      "stars": 6,
+      "pushed_at": "2026-06-14T00:07:52Z",
+      "created_at": "2026-04-10T08:19:34Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "deepset-ai/haystack-cookbook",
+      "url": "https://github.com/deepset-ai/haystack-cookbook",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "thekeystoneproject/stonemem",
+      "url": "https://github.com/thekeystoneproject/stonemem",
+      "description": "Institutional memory engine for AI agents — compiled Rust MCP server with adapters for Hermes, CrewAI, LangGraph, Haystack, OpenHands, MS Agent Framework, and Google ADK",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-12T04:49:50Z",
+      "created_at": "2026-06-11T12:11:31Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "thekeystoneproject/stonemux",
+      "url": "https://github.com/thekeystoneproject/stonemux",
+      "description": "Multi-agent coordination engine for AI frameworks — compiled Rust MCP server with adapters for Hermes, CrewAI, LangGraph, Haystack, OpenHands, MS Agent Framework, and Google ADK",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-12T04:50:04Z",
+      "created_at": "2026-06-11T12:11:40Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "thekeystoneproject/stonegate",
+      "url": "https://github.com/thekeystoneproject/stonegate",
+      "description": "Universal MCP tool gateway for AI agent frameworks — compiled Rust server with adapters for Hermes, CrewAI, LangGraph, Haystack, OpenHands, MS Agent Framework, and Google ADK",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-12T04:50:17Z",
+      "created_at": "2026-06-11T12:11:42Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    }
+  ]
+}

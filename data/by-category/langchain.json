@@ -1,0 +1,1261 @@
+{
+  "category": "langchain",
+  "title": "LangChain",
+  "count": 81,
+  "repos": [
+    {
+      "owner_repo": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User A",
+      "language": "TypeScript",
+      "stars": 39136,
+      "forks": 8039,
+      "pushed_at": "2026-06-14T21:03:21Z",
+      "created_at": "2023-02-12T01:06:52Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:mcp (page 1, sort stars)",
+      "_sources": [
+        "V3"
+      ]
+    },
+    {
+      "owner_repo": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+      "language": "TypeScript",
+      "stars": 29017,
+      "pushed_at": "2026-06-13T17:36:33Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "source_query": "topic:autogen",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "langchain4j/langchain4j",
+      "url": "https://github.com/langchain4j/langchain4j",
+      "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
+      "language": "Java",
+      "stars": 12329,
+      "pushed_at": "2026-06-15T09:14:05Z",
+      "created_at": "2023-06-20T15:30:29Z",
+      "license": "Apache-2.0",
+      "source_query": "agent framework gpt pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "bragai/bRAG-langchain",
+      "url": "https://github.com/bragai/bRAG-langchain",
+      "description": "Everything you need to know to build your own RAG application",
+      "language": "Jupyter Notebook",
+      "stars": 4112,
+      "forks": 498,
+      "pushed_at": "2025-11-22T07:26:48Z",
+      "created_at": "2024-11-16T07:41:36Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "source_query": "topic:rag (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "paulpierre/RasaGPT",
+      "url": "https://github.com/paulpierre/RasaGPT",
+      "description": "💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram",
+      "language": "Python",
+      "stars": 2466,
+      "forks": 252,
+      "pushed_at": "2025-11-12T14:43:36Z",
+      "created_at": "2023-04-25T14:33:51Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:openai (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "LLPhant/LLPhant",
+      "url": "https://github.com/LLPhant/LLPhant",
+      "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+      "language": "PHP",
+      "stars": 1686,
+      "pushed_at": "2026-05-16T20:53:31Z",
+      "created_at": "2023-07-31T09:54:43Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "moyangzhan/langchain4j-aideepin",
+      "url": "https://github.com/moyangzhan/langchain4j-aideepin",
+      "description": "基于AI的工作效率提升工具（聊天、绘画、知识库、工作流、 MCP服务市场、语音输入输出、长期记忆） | Ai-based productivity tools (Chat,Draw,RAG,Workflow,MCP marketplace, ASR,TTS, Long-term memory etc)",
+      "language": "Java",
+      "stars": 1305,
+      "forks": 317,
+      "pushed_at": "2026-06-12T12:00:43Z",
+      "created_at": "2023-08-08T02:45:05Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:ai-agent (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "swarmclawai/swarmclaw",
+      "url": "https://github.com/swarmclawai/swarmclaw",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama). A practical Claude Code and LangChain alternative.",
+      "language": "TypeScript",
+      "stars": 581,
+      "pushed_at": "2026-06-11T10:16:10Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:autonomous-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "AgentTeam-TaichuAI/ScienceClaw",
+      "url": "https://github.com/AgentTeam-TaichuAI/ScienceClaw",
+      "description": "ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, better transparency, and a more user-friendly experience.",
+      "language": "Python",
+      "stars": 538,
+      "forks": 63,
+      "pushed_at": "2026-05-09T01:56:17Z",
+      "created_at": "2026-03-13T06:52:33Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:multi-agent (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "cordum-io/cordum",
+      "url": "https://github.com/cordum-io/cordum",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+      "language": "Go",
+      "stars": 487,
+      "pushed_at": "2026-06-09T16:25:03Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "source_query": "topic:autonomous-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "Azure-Samples/azure-ai-travel-agents",
+      "url": "https://github.com/Azure-Samples/azure-ai-travel-agents",
+      "description": "A robust enterprise application sample (deployed on ACA) that leverages MCP and multiple AI agents orchestrated by Langchain.js, Llamaindex.TS and Microsoft Agent Framework.",
+      "language": "TypeScript",
+      "stars": 442,
+      "pushed_at": "2026-06-14T09:00:52Z",
+      "created_at": "2025-03-14T14:51:15Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "sagents-ai/sagents",
+      "url": "https://github.com/sagents-ai/sagents",
+      "description": "Build interactive AI agents in Elixir with OTP supervision, middleware composition, human-in-the-loop approvals, sub-agent delegation, and real-time Phoenix LiveView integration. Built on LangChain.",
+      "language": "Elixir",
+      "stars": 227,
+      "forks": 22,
+      "pushed_at": "2026-06-11T08:07:41Z",
+      "created_at": "2026-02-04T02:11:49Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "source_query": "topic:agentic (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Corpus-OS/corpusos",
+      "url": "https://github.com/Corpus-OS/corpusos",
+      "description": "Open-source protocol suite standardizing LLM, Vector, Graph, and Embedding infrastructure across LangChain, LlamaIndex, AutoGen, CrewAI, Semantic Kernel, and MCP. 3,330+ conformance tests. One protocol. Any framework. Any provider.",
+      "language": "Python",
+      "stars": 224,
+      "pushed_at": "2026-05-08T23:28:23Z",
+      "created_at": "2025-10-30T17:02:15Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "langchain-ai/agent-auth-payments",
+      "url": "https://github.com/langchain-ai/agent-auth-payments",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "fullstack chat agent with authentication, request credits and payments built in",
+      "language": "TypeScript",
+      "stars": 196,
+      "pushed_at": "2026-06-12T20:16:55Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llm-agent",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "CronusL-1141/AI-company",
+      "url": "https://github.com/CronusL-1141/AI-company",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashboard. No LangChain/AutoGen — pure CC native integration.",
+      "language": "Python",
+      "stars": 187,
+      "pushed_at": "2026-06-12T19:59:50Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:agent-framework",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "jagmarques/asqav-sdk",
+      "url": "https://github.com/jagmarques/asqav-sdk",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Python and TypeScript SDKs for verifiable evidence of AI agent actions. Signed receipts, policy enforcement, audit trails. Works with LangChain, CrewAI, MCP.",
+      "language": "Python",
+      "stars": 173,
+      "pushed_at": "2026-06-13T17:24:16Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:crewai",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "quarkusio/quarkus-workshop-langchain4j",
+      "url": "https://github.com/quarkusio/quarkus-workshop-langchain4j",
+      "description": "Quarkus LangChain4J Workshop that demonstrates both single AI service capabilities and Agentic AI orchestration",
+      "language": "Java",
+      "stars": 87,
+      "pushed_at": "2026-06-15T09:24:32Z",
+      "created_at": "2024-06-19T07:15:39Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:mcp-server pushed:>2026-01-01",
+      "_sources": [
+        "new161"
+      ]
+    },
+    {
+      "owner_repo": "NJUxlj/Travel-Agent-based-on-Qwen2-RLHF",
+      "url": "https://github.com/NJUxlj/Travel-Agent-based-on-Qwen2-RLHF",
+      "description": "A travel agent based on Qwen2.5, fine-tuned by SFT + DPO/PPO/GRPO using traveling question-answer dataset, a mindmap can be output using the response. A RAG system is build upon the tuned qwen2, using Prompt-Template + Tool-Use + Chroma embedding database  + LangChain ",
+      "language": "Python",
+      "stars": 79,
+      "forks": 6,
+      "pushed_at": "2026-04-16T09:10:01Z",
+      "created_at": "2024-04-19T07:07:03Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:tool-use (page 1)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Oaklight/ToolRegistry",
+      "url": "https://github.com/Oaklight/ToolRegistry",
+      "description": "ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, LangChain, MCP)",
+      "language": "Python",
+      "stars": 59,
+      "forks": 7,
+      "pushed_at": "2026-06-13T04:45:35Z",
+      "created_at": "2025-03-21T14:39:27Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:function-calling (page 1)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "kbhujbal/Multi-Agent-AI-Travel-Advisor",
+      "url": "https://github.com/kbhujbal/Multi-Agent-AI-Travel-Advisor",
+      "description": "AI travel planner with 7 specialized agents, RAG, and tool-calling. Built with CrewAI & LangChain. Generates personalized itineraries with flights, hotels, activities, and cultural tips. Production-ready Python codebase.",
+      "language": "Python",
+      "stars": 54,
+      "forks": 10,
+      "pushed_at": "2026-04-12T07:12:11Z",
+      "created_at": "2025-11-04T23:29:05Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llm-agent (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "AbhaySingh71/AI-Lawyer-RAG-with-Deepseek",
+      "url": "https://github.com/AbhaySingh71/AI-Lawyer-RAG-with-Deepseek",
+      "description": "AI Lawyer is an intelligent reasoning legal assistant powered by DeepSeek , Ollama RAG and LangChain, designed to streamline legal research and document analysis. By leveraging retrieval-augmented generation (RAG), it provides precise legal insights, and contract summarization. With an intuitive Str",
+      "language": "Python",
+      "stars": 50,
+      "forks": 13,
+      "pushed_at": "2025-07-15T13:47:57Z",
+      "created_at": "2025-03-19T11:42:14Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llm-agent (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "MaxMLang/pytector",
+      "url": "https://github.com/MaxMLang/pytector",
+      "description": "Easy to use LLM Prompt Injection Detection and Prompt Input Sanitization / Detector Python Package with support for local models, API-based safeguards, and LangChain guardrails.",
+      "language": "Python",
+      "stars": 42,
+      "forks": 24,
+      "pushed_at": "2026-04-14T13:26:24Z",
+      "created_at": "2024-03-22T21:46:48Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llmops (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "haorui-harry/agent-harness",
+      "url": "https://github.com/haorui-harry/agent-harness",
+      "description": "A LangChain-powered multi-agent system with agent routing, skill routing, and execution harness.",
+      "language": "Python",
+      "stars": 36,
+      "forks": 1,
+      "pushed_at": "2026-04-13T08:00:37Z",
+      "created_at": "2026-04-01T03:36:49Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:tool-use (page 1)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Defend-AI-Tech-Inc/agent-discover-scanner",
+      "url": "https://github.com/Defend-AI-Tech-Inc/agent-discover-scanner",
+      "description": "The industry-standard Agentic Identity & Inventory Scanner. Automatically inventory autonomous agents (LangChain, AutoGen, CrewAI, PydanticAI) using static analysis, network heuristics, and eBPF. Foundational tool for AIBOM compliance and AgentOps governance.",
+      "language": "Python",
+      "stars": 16,
+      "forks": 5,
+      "pushed_at": "2026-06-04T17:04:11Z",
+      "created_at": "2025-12-20T00:40:19Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:crewai (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "HexamindOrganisation/hexgate",
+      "url": "https://github.com/HexamindOrganisation/hexgate",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Authorization infrastructure for AI agents - policy enforcement, signed WASM bundles, per-request user scope, and audit trail for OpenAI Agents, LangChain, Google ADK, and Pydantic AI.",
+      "language": "Python",
+      "stars": 14,
+      "pushed_at": "2026-06-12T15:30:51Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:openai-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "sattyamjjain/agent-airlock",
+      "url": "https://github.com/sattyamjjain/agent-airlock",
+      "description": "Open-source security firewall for AI agents — validates tool calls, strips ghost arguments, enforces type safety, PII masking, RBAC, cost tracking & sandbox isolation. Works with LangChain, OpenAI Agents SDK, PydanticAI & CrewAI.",
+      "language": "Python",
+      "stars": 8,
+      "pushed_at": "2026-06-14T08:00:12Z",
+      "created_at": "2026-01-31T08:43:37Z",
+      "license": "MIT",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "SonAIengine/graph-tool-call",
+      "url": "https://github.com/SonAIengine/graph-tool-call",
+      "description": "Graph-based tool retrieval for LLM agents — 248 tools → 82% accuracy, 79% fewer tokens. Zero dependencies. OpenAPI / MCP / LangChain.",
+      "language": "Python",
+      "stars": 7,
+      "pushed_at": "2026-06-02T06:26:26Z",
+      "created_at": "2026-01-16T04:33:31Z",
+      "license": "MIT",
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "atelier-ws/atelier",
+      "url": "https://github.com/atelier-ws/atelier",
+      "description": "Open-source context runtime and governance layer for coding agents. MCP server + Python SDK (Anthropic, LangChain, OpenAI Agents, Google ADK) with shared procedures, failure rescue, loop detection, cost tracking, and cross-vendor model routing across Claude Code, Codex, Copilot, opencode, and any MC",
+      "language": "Python",
+      "stars": 7,
+      "forks": 2,
+      "pushed_at": "2026-06-12T09:06:56Z",
+      "created_at": "2026-05-01T22:47:41Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:openai-agents-sdk (page 1, sort stars)",
+      "_sources": [
+        "V3"
+      ]
+    },
+    {
+      "owner_repo": "Eric-LLMs/LLMs-Lab",
+      "url": "https://github.com/Eric-LLMs/LLMs-Lab",
+      "description": "Full-stack LLM Engineering Lab. Features: Autonomous Agents (ReAct/AutoGPT) | Fine-Tuning Llama/Mistral (SFT/DPO) | Large Model Deployment (DeepSeek 671B / 2.5-bit) | Advanced RAG (Hybrid Search) | Function Calling (Stream/Text-to-SQL/External APIs) | Frameworks (LangChain, Semantic Kernel, OpenAI) | Daily SOTA Paper Tracking. From theory to 0-to-1",
+      "language": "Jupyter Notebook",
+      "stars": 7,
+      "pushed_at": "2026-06-15T04:55:48Z",
+      "created_at": "2024-08-18T16:17:55Z",
+      "license": null,
+      "source_query": "autonomous agent llm pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "maximem-ai/maximem_synap_sdk",
+      "url": "https://github.com/maximem-ai/maximem_synap_sdk",
+      "description": "Maximem Synap is the memory layer that makes AI agents remember. 92% LongMemEval, 93.2% on LOCOMO. Works natively with LangChain, LlamaIndex, CrewAI, Google ADK, AutoGen, OpenAI Agents, Semantic Kernel, Haystack, and Pydantic AI.",
+      "language": "Python",
+      "stars": 6,
+      "pushed_at": "2026-06-14T00:07:52Z",
+      "created_at": "2026-04-10T08:19:34Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-",
+      "url": "https://github.com/aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-",
+      "description": "让 AI Agent 开发像玩 RPG 一样有趣 | Gamified AI Agent Development Platform - 5min to start vs 5hr for LangChain",
+      "language": "TypeScript",
+      "stars": 4,
+      "pushed_at": "2026-06-15T04:22:23Z",
+      "created_at": "2026-03-13T17:27:59Z",
+      "license": "MIT",
+      "source_query": "llm agent language:TypeScript pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "maruakshay/mii-ai-security",
+      "url": "https://github.com/maruakshay/mii-ai-security",
+      "description": "Think like an attacker. Ship like a defender. — Open-source SKILL.md packs for hardening LLM systems: prompt injection, RAG security, tool execution, data leakage & governance. Framework-aware (LangChain, LlamaIndex, Semantic Kernel) and language-portable. Built for engineers who ship to production.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-04-30T14:26:37Z",
+      "created_at": "2026-04-27T04:58:55Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "jesfra929/agentic-ai-learning-series",
+      "url": "https://github.com/jesfra929/agentic-ai-learning-series",
+      "description": "🛠️ Explore hands-on notebooks to master LLMs, RAG, LangChain, CrewAI, and multi-agent systems for effective AI learning and experimentation.",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-06-13T19:43:28Z",
+      "created_at": "2025-12-15T23:13:47Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "DR1X1/ai-local-agents",
+      "url": "https://github.com/DR1X1/ai-local-agents",
+      "description": "🧠 Build autonomous AI agents with Ollama and LangChain, featuring local LLM inference, memory handling, and voice interaction in Python.",
+      "language": "Python",
+      "stars": 3,
+      "pushed_at": "2026-06-15T08:11:08Z",
+      "created_at": "2025-11-02T07:51:51Z",
+      "license": "MIT",
+      "source_query": "autonomous agent llm pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Narasimha-kambham/agentic-ai-learning-series",
+      "url": "https://github.com/Narasimha-kambham/agentic-ai-learning-series",
+      "description": "A 7-part practical notebook series exploring LLMs, RAG, LangChain, CrewAI, LlamaIndex & real-time multi-agent systems.",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 1,
+      "pushed_at": "2025-11-22T04:42:48Z",
+      "created_at": "2025-11-22T03:47:50Z",
+      "archived": false,
+      "license": null,
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "SidereusHu/RAG-Shield",
+      "url": "https://github.com/SidereusHu/RAG-Shield",
+      "description": "Defense-in-depth security framework for RAG systems: poison detection, cryptographic integrity, differential privacy, PIR, forensics, and production integrations for LangChain/LlamaIndex",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-02-08T02:15:16Z",
+      "created_at": "2026-01-29T15:49:33Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "rashed4949/AI-Agent-with-LangChain-LLM-Integrationin-Python",
+      "url": "https://github.com/rashed4949/AI-Agent-with-LangChain-LLM-Integrationin-Python",
+      "description": "AI Agent with LangChain & LLM Integration  This project showcases an AI agent built in Python using popular frameworks like LangChain. It demonstrates how to use various LLMs such as Claude and GPT, integrate external tools for enhanced capabilities, and structure the agent’s output for seamless use in your applications.",
+      "language": "Python",
+      "stars": 2,
+      "pushed_at": "2026-02-21T20:26:45Z",
+      "created_at": "2025-04-14T19:29:16Z",
+      "license": null,
+      "source_query": "agent framework gpt pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Agnuxo1/benchclaw-integrations",
+      "url": "https://github.com/Agnuxo1/benchclaw-integrations",
+      "description": "BenchClaw adapters for LangChain, LlamaIndex, CrewAI, Ollama Open WebUI, LobeChat, n8n, Dify, Continue.dev and more. Lets any agent framework submit to the P2PCLAW leaderboard.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-04-25T02:05:05Z",
+      "created_at": "2026-04-18T19:44:34Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "DeveloperVishal004/shopNow-voice-agent",
+      "url": "https://github.com/DeveloperVishal004/shopNow-voice-agent",
+      "description": "AI-powered real-time voice agent for D2C e-commerce support — handles Hindi, English & Hinglish calls, detects frustration from voice tone, escalates intelligently to human agents. Built with FastAPI, OpenAI, Sarvam AI, LangChain + FAISS. ",
+      "language": "Python",
+      "stars": 2,
+      "pushed_at": "2026-05-10T17:37:23Z",
+      "created_at": "2026-03-17T20:33:53Z",
+      "license": null,
+      "source_query": "topic:voice-agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "commune-dev/commune-cookbook",
+      "url": "https://github.com/commune-dev/commune-cookbook",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Code recipes for email & SMS in AI agents — LangChain, CrewAI, OpenAI Agents SDK, Claude, n8n. Inbox, threading, webhooks, phone numbers. commune.email",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "pushed_at": "2026-06-03T02:57:07Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:openai-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "ghostswap1/ghostswap-agents",
+      "url": "https://github.com/ghostswap1/ghostswap-agents",
+      "description": "Official multi-LLM agent pack for the GhostSwap Partners API (no-KYC crypto swaps, 1,600+ coins). MCP server, OpenAPI 3.1, Anthropic Agent Skill, AGENTS.md, Cursor/Copilot/Windsurf rules, ChatGPT GPT Action. Works with Claude, ChatGPT, Cursor, Windsurf, Gemini, Copilot, OpenAI Agents SDK, LangChain,",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-06-08T11:16:22Z",
+      "created_at": "2026-05-24T23:25:09Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:llamaindex (page 3)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "PavanKumarVattikuti/research-agent",
+      "url": "https://github.com/PavanKumarVattikuti/research-agent",
+      "description": "An autonomous AI research assistant that runs from the system tray. It uses LangChain to plan, browse, and synthesize web data into comprehensive Markdown reports using local (LM Studio) or cloud LLMs.",
+      "language": "Python",
+      "stars": 2,
+      "pushed_at": "2026-06-11T08:01:03Z",
+      "created_at": "2026-02-21T17:37:05Z",
+      "license": "MIT",
+      "source_query": "autonomous agent llm pushed:>2026-01-01 stars:>=2",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "llylee994-ui/HexaAgent",
+      "url": "https://github.com/llylee994-ui/HexaAgent",
+      "description": "AI-powered Liu Yao (六爻) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. 基于 LangChain + DeepSeek 的六爻解卦智能体。",
+      "language": "TypeScript",
+      "stars": 2,
+      "pushed_at": "2026-06-11T14:21:02Z",
+      "created_at": "2026-05-19T13:10:16Z",
+      "license": "MIT",
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "farmountain/HipCortex",
+      "url": "https://github.com/farmountain/HipCortex",
+      "description": "Persistent causal memory for AI agents. 295x faster than Mem0. LangChain, LlamaIndex, AutoGen, CrewAI. Rust, zero deps.",
+      "language": "Rust",
+      "stars": 2,
+      "pushed_at": "2026-06-12T16:02:27Z",
+      "created_at": "2025-06-05T13:37:11Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "black22345/commune-cookbook",
+      "url": "https://github.com/black22345/commune-cookbook",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Provide AI agents with real email and phone identities using production-ready tools compatible with LangChain, CrewAI, and other frameworks.",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "pushed_at": "2026-06-13T13:56:42Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:openai-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "pmestre-Forge/signal-api",
+      "url": "https://github.com/pmestre-Forge/signal-api",
+      "description": "Persistent memory for AI agents. Two lines of code. Works with LangChain, CrewAI, AutoGen, Claude, MCP. Free tier. Self-hostable. MIT.",
+      "language": "HTML",
+      "stars": 1,
+      "pushed_at": "2026-05-07T17:42:18Z",
+      "created_at": "2026-04-15T09:32:22Z",
+      "license": null,
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "hidearmoon/agentguard",
+      "url": "https://github.com/hidearmoon/agentguard",
+      "description": "Runtime security layer for AI agents — inspect, control, and audit every tool call. Trust-aware data flow, 3-layer intent consistency detection, Merkle audit trail. Drop-in support for LangChain, CrewAI, AutoGen, OpenClaw, MCP, Dify, AutoGPT, n8n.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-05-09T06:04:07Z",
+      "created_at": "2026-04-16T13:42:35Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "psistla/fabric-ai-meta",
+      "url": "https://github.com/psistla/fabric-ai-meta",
+      "description": "Extract Microsoft Fabric semantic model metadata. AI-ready exports for LangChain, OpenAI, Semantic Kernel, AutoGen, and custom plugins. Multi-provider LLM enrichment, MCP server, and cross-model governance.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-05-18T02:47:59Z",
+      "created_at": "2026-03-13T04:22:43Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "IAMMARBIT/AgentHUD",
+      "url": "https://github.com/IAMMARBIT/AgentHUD",
+      "description": "Game-style HUD overlay for AI agent observability. Live cards per agent, drop-in for LangChain / OpenAI Agents / Claude Agent SDK / CrewAI / AutoGen. Skin marketplace for creators.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-05-28T06:30:04Z",
+      "created_at": "2026-05-27T03:45:44Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "nandukmelath/agentwatch",
+      "url": "https://github.com/nandukmelath/agentwatch",
+      "description": "🔍 X-ray vision for LLM agents. One line change, zero dependencies. Live token tracking, cost alerts, loop detection — works with OpenAI, Anthropic, Ollama, LM Studio, LangChain, CrewAI, AutoGen.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-06T12:41:38Z",
+      "created_at": "2026-06-06T12:41:19Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "azizalzahrani/arabic-rag-toolkit",
+      "url": "https://github.com/azizalzahrani/arabic-rag-toolkit",
+      "description": "🔍 أدوات RAG العربية — Arabic-first RAG toolkit with multi-agent support (LangChain + CrewAI)",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-12T22:49:17Z",
+      "created_at": "2026-03-21T21:52:03Z",
+      "license": "MIT",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "linnhokdepzai/Agentic-RAG-Notebooks",
+      "url": "https://github.com/linnhokdepzai/Agentic-RAG-Notebooks",
+      "description": "📚 Explore advanced Retrieval-Augmented Generation implementations with intelligent agents using LangChain and various vector stores.",
+      "language": "Jupyter Notebook",
+      "stars": 1,
+      "pushed_at": "2026-06-15T08:35:14Z",
+      "created_at": "2025-12-27T04:41:51Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "avarose57/ai-agent-wikipedia-n8n",
+      "url": "https://github.com/avarose57/ai-agent-wikipedia-n8n",
+      "description": "🤖 Automate answering questions using a local AI agent that integrates Wikipedia and n8n workflows with LangChain and Ollama models.",
+      "language": null,
+      "stars": 1,
+      "pushed_at": "2026-06-15T09:14:33Z",
+      "created_at": "2025-08-13T22:30:07Z",
+      "license": null,
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "bubba2koldd-design/OpenGenerativeUI",
+      "url": "https://github.com/bubba2koldd-design/OpenGenerativeUI",
+      "description": "Build interactive AI-generated visual UIs like algorithm visualizations, 3D animations, and charts using CopilotKit and LangChain Deep Agents.",
+      "language": "TypeScript",
+      "stars": 1,
+      "pushed_at": "2026-06-15T09:34:08Z",
+      "created_at": "2026-01-03T08:29:35Z",
+      "license": "MIT",
+      "source_query": "topic:agentic-ai created:>2025-09-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Human-fairness510/mini-cc",
+      "url": "https://github.com/Human-fairness510/mini-cc",
+      "description": "Build a local Ollama-based code assistant CLI with LangChain.js and native tool calling for reliable developer workflows",
+      "language": "TypeScript",
+      "stars": 1,
+      "pushed_at": "2026-06-15T09:40:37Z",
+      "created_at": "2026-04-14T06:37:28Z",
+      "license": "MIT",
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "indcoder/agentcamp-workshop-langchain",
+      "url": "https://github.com/indcoder/agentcamp-workshop-langchain",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "langchain-ai/agentevals",
+      "url": "https://github.com/langchain-ai/agentevals",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "langchain-ai/social-media-agent",
+      "url": "https://github.com/langchain-ai/social-media-agent",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "Srinivasulu2003/langchain",
+      "url": "https://github.com/Srinivasulu2003/langchain",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "tanishra/Langchain",
+      "url": "https://github.com/tanishra/Langchain",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "atryx/langchain-vs-llamaindex",
+      "url": "https://github.com/atryx/langchain-vs-llamaindex",
+      "description": "LangChain vs LlamaIndex compared — RAG pipelines, agents, data connectors, vector stores, and when to use each framework (2026)",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-04-15T09:58:59Z",
+      "created_at": "2026-04-15T09:57:22Z",
+      "license": "MIT",
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "CharonK652302/Cortex-ai",
+      "url": "https://github.com/CharonK652302/Cortex-ai",
+      "description": "Production RAG app — LangChain LCEL, LlamaIndex, Crew.ai multi-agent, FAISS, FastAPI, Docker, MLflow evaluation, GitHub Actions CI, MCP server — zero paid APIs",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-04-24T03:10:30Z",
+      "created_at": "2026-03-29T04:53:33Z",
+      "license": null,
+      "source_query": "topic:llamaindex agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "pathcourse-health/pch-framework-adapters",
+      "url": "https://github.com/pathcourse-health/pch-framework-adapters",
+      "description": "PCH adapters for LangChain, CrewAI, Pydantic AI, AutoGen, and the Vercel AI SDK - autonomous agent inference with USDC billing on Base L2",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-03T17:40:08Z",
+      "created_at": "2026-04-29T03:21:16Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "sudhirmahaseth/Multi-Agent-Research-System",
+      "url": "https://github.com/sudhirmahaseth/Multi-Agent-Research-System",
+      "description": "AI-powered Multi-Agent Research System built with Streamlit, LangChain, and OpenAI. Uses Search, Reader, Writer, and Critic agents to research topics, summarize findings, generate articles, and improve output automatically. Features ChatGPT-style UI, .env configuration, and fast setup with uv. Ideal for AI portfolio projects.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-07T14:30:54Z",
+      "created_at": "2026-04-20T12:05:01Z",
+      "license": "MIT",
+      "source_query": "openai agent .env pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "agentbio/agentbio-python",
+      "url": "https://github.com/agentbio/agentbio-python",
+      "description": "Official Python SDK for AgentBio.world — verify AI agent identity and reputation before interacting. LangChain, AutoGen & CrewAI ready.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-13T02:51:09Z",
+      "created_at": "2026-05-09T02:39:56Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "SiddharthGSSahoo/RAG-System",
+      "url": "https://github.com/SiddharthGSSahoo/RAG-System",
+      "description": "An agentic RAG system built with FastAPI, LangChain, FAISS, and Mistral AI. Features a premium glassmorphic dashboard, real-   │ time function execution logs, and an Agent-controlled query loop that treats Document Retrieval as a Tool.",
+      "language": "HTML",
+      "stars": 0,
+      "pushed_at": "2026-06-03T15:07:09Z",
+      "created_at": "2026-06-03T15:02:50Z",
+      "license": null,
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ashutoshrana/confidence-escalation",
+      "url": "https://github.com/ashutoshrana/confidence-escalation",
+      "description": "Framework-agnostic confidence-gated escalation middleware for LLM agents: multi-signal scoring (logprob, verbalized, tool risk), threshold policies, and escalation handlers for LangChain, CrewAI, AutoGen, and Google ADK.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-08T10:14:54Z",
+      "created_at": "2026-04-25T20:46:22Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ksaikiranreddy29116-bot/Smart-College-Assistant",
+      "url": "https://github.com/ksaikiranreddy29116-bot/Smart-College-Assistant",
+      "description": "AI-powered College Assistant built using LangChain Tool Calling Agent, Ollama, and Llama 3.2 for attendance, results, fee management, library fines, and hostel fee calculations.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-10T06:38:09Z",
+      "created_at": "2026-06-10T06:20:47Z",
+      "license": null,
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "tappass/tappass-examples",
+      "url": "https://github.com/tappass/tappass-examples",
+      "description": "Integration examples for TapPass AI agent governance. CrewAI, LangChain, LlamaIndex, n8n, FastAPI, Docker, Kubernetes.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-12T16:24:04Z",
+      "created_at": "2026-03-15T19:31:00Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "FoundryNet/mint-attest",
+      "url": "https://github.com/FoundryNet/mint-attest",
+      "description": "mint-attest — Python SDK for universal work attestation. Register, attest, verify, rate, recommend, and discover agents on the MINT Protocol. @attest decorator + LangChain/CrewAI/AutoGen integrations.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-13T20:32:05Z",
+      "created_at": "2026-06-07T07:22:02Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "LamboPoewert/madeonsol-python",
+      "url": "https://github.com/LamboPoewert/madeonsol-python",
+      "description": "Python SDK for MadeOnSol x402 API — LangChain & CrewAI tools included",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-14T10:30:34Z",
+      "created_at": "2026-04-02T17:57:19Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "arihantjain6739/multiagent-researcher",
+      "url": "https://github.com/arihantjain6739/multiagent-researcher",
+      "description": "An intelligent research automation system that orchestrates four AI agents Search, Reader, Writer, and Critic to conduct comprehensive research and generate high-quality reports. Combines web search, content extraction, and LLM-powered analysis using LangChain and GPT-4",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-14T18:20:31Z",
+      "created_at": "2026-06-13T13:08:36Z",
+      "license": null,
+      "source_query": "topic:agent-framework created:>2025-06-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ayush-s-tomar/startupscope",
+      "url": "https://github.com/ayush-s-tomar/startupscope",
+      "description": "Multi-agent startup intelligence tool powered by a three-agent sequential CrewAI crew — Researcher, Analyst, and Writer — that runs live web searches via SerperDev and generates structured startup reports. Built with CrewAI, LangChain, Groq LLaMA 3.3, and Streamlit. Deployed on Render.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-15T02:23:55Z",
+      "created_at": "2026-06-10T23:54:44Z",
+      "license": null,
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "aditya-vs-bytesview/news-langchain-agent",
+      "url": "https://github.com/aditya-vs-bytesview/news-langchain-agent",
+      "description": "A LangChain agent that uses the newsdata.io news API as a live tool to answer 'what's happening with X?' with sourced article links.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-15T05:10:48Z",
+      "created_at": "2026-06-15T05:10:46Z",
+      "license": null,
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Stunning-navelorange917/Agent-Pathway",
+      "url": "https://github.com/Stunning-navelorange917/Agent-Pathway",
+      "description": "Build a B2B sales policy copilot for compliance, pricing, and risk checks with LLMs, LangChain, and structured business data",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-06-15T06:05:05Z",
+      "created_at": "2026-04-27T03:16:24Z",
+      "license": null,
+      "source_query": "topic:tool-calling agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "workflowstarches8415/deepagents-book",
+      "url": "https://github.com/workflowstarches8415/deepagents-book",
+      "description": "Analyze the LangChain DeepAgents source code to master agent harness design, SDK architecture, and production engineering practices through 31 modular chapters.",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-15T06:08:35Z",
+      "created_at": "2026-05-01T15:30:01Z",
+      "license": null,
+      "source_query": "topic:coding-agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ZQIUSU/Ai-agent-scaffold-zqiusu",
+      "url": "https://github.com/ZQIUSU/Ai-agent-scaffold-zqiusu",
+      "description": "基于 DDD 分层架构的 AI Agent 应用脚手架，集成 Spring AI、LangChain4j 与 Google ADK，覆盖 Chat / Tool Calling / Multi-Agent 编排能力，JDK 17 + Spring Boot。",
+      "language": "Java",
+      "stars": 0,
+      "pushed_at": "2026-06-15T08:20:37Z",
+      "created_at": "2026-05-21T09:56:50Z",
+      "license": null,
+      "source_query": "topic:agent-framework created:>2025-06-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "laoxs2002/genai-agentes",
+      "url": "https://github.com/laoxs2002/genai-agentes",
+      "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows and integrations.",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "pushed_at": "2026-06-15T09:29:24Z",
+      "created_at": "2026-03-18T16:09:02Z",
+      "license": null,
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Brollybeadingplane850/langchain-multi-agent-example",
+      "url": "https://github.com/Brollybeadingplane850/langchain-multi-agent-example",
+      "description": "Build multi-agent apps with LangChain: tutorials, code examples, and patterns for agent orchestration, tools, memory, and error handling",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-15T09:43:00Z",
+      "created_at": "2026-04-17T01:40:36Z",
+      "license": "MIT",
+      "source_query": "topic:agentic-ai created:>2025-09-01",
+      "_sources": [
+        "3121"
+      ]
+    }
+  ]
+}

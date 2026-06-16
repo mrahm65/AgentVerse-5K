@@ -49,6 +49,7 @@ python3 scripts/build.py
 - [By Programming Language](#-by-programming-language)
 - [Top 30 Trending Repos](#-top-30-trending-repos)
 - [How the List Was Built](#-how-the-list-was-built)
+- [Browse by Framework](#-browse-by-framework)
 - [Framework Comparison](#-framework-comparison)
 - [Industry Applications](#-industry-applications)
 - [Contributing](#-contributing)
@@ -173,6 +174,27 @@ Ranked by star count across the entire dataset.
 - Rendered as Markdown tables, one file per category, linked from this README.
 
 Source data: `repos_5080_all_unique.json` (included as the upstream dataset).
+
+---
+
+## 🔧 Browse by Framework
+
+Click any framework to open its category file with every repo built on it.
+
+| Framework | Repos | Browse |
+| --------- | ----- | ------ |
+| 🕸️ **LangGraph**    | `306`  | [categories/langgraph.md](categories/langgraph.md) · [JSON](data/by-category/langgraph.json) |
+| 🦜 **LangChain**    | `81`   | [categories/langchain.md](categories/langchain.md) · [JSON](data/by-category/langchain.json) |
+| 🤝 **AutoGen**      | `192`  | [categories/autogen.md](categories/autogen.md) · [JSON](data/by-category/autogen.json) |
+| 👥 **CrewAI**       | `242`  | [categories/crewai.md](categories/crewai.md) · [JSON](data/by-category/crewai.json) |
+| 🦙 **LlamaIndex**   | `141`  | [categories/llamaindex.md](categories/llamaindex.md) · [JSON](data/by-category/llamaindex.json) |
+| 🪶 **Agno**         | `70`   | [categories/agno.md](categories/agno.md) · [JSON](data/by-category/agno.json) |
+| 📐 **Pydantic AI**  | `18`   | [categories/pydantic-ai.md](categories/pydantic-ai.md) · [JSON](data/by-category/pydantic-ai.json) |
+| 🔍 **Haystack**     | `6`    | [categories/haystack.md](categories/haystack.md) · [JSON](data/by-category/haystack.json) |
+| 🤏 **Smolagents**   | `3`    | [categories/smolagents.md](categories/smolagents.md) · [JSON](data/by-category/smolagents.json) |
+| 🏗️ **Other Agent Frameworks** | `283` | [categories/agent-frameworks.md](categories/agent-frameworks.md) · [JSON](data/by-category/agent-frameworks.json) |
+
+> Repos are matched against `description`, `source_query`, and `owner/repo` keywords. A repo can appear under more than one framework if it uses several. Counts will update each time you rerun `python3 scripts/build.py`.
 
 ---
 

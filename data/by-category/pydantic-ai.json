@@ -1,0 +1,313 @@
+{
+  "category": "pydantic-ai",
+  "title": "Pydantic AI",
+  "count": 18,
+  "repos": [
+    {
+      "owner_repo": "DougTrajano/pydantic-ai-skills",
+      "url": "https://github.com/DougTrajano/pydantic-ai-skills",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Supports filesystem and programmatic skills.",
+      "language": "Python",
+      "stars": 312,
+      "pushed_at": "2026-06-11T02:35:06Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:agent-framework",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "vstorm-co/awesome-pydantic-ai",
+      "url": "https://github.com/vstorm-co/awesome-pydantic-ai",
+      "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
+      "language": null,
+      "stars": 73,
+      "forks": 12,
+      "pushed_at": "2026-05-23T22:51:08Z",
+      "created_at": "2026-01-18T21:29:05Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "source_query": "topic:llm-agent (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "Defend-AI-Tech-Inc/agent-discover-scanner",
+      "url": "https://github.com/Defend-AI-Tech-Inc/agent-discover-scanner",
+      "description": "The industry-standard Agentic Identity & Inventory Scanner. Automatically inventory autonomous agents (LangChain, AutoGen, CrewAI, PydanticAI) using static analysis, network heuristics, and eBPF. Foundational tool for AIBOM compliance and AgentOps governance.",
+      "language": "Python",
+      "stars": 16,
+      "forks": 5,
+      "pushed_at": "2026-06-04T17:04:11Z",
+      "created_at": "2025-12-20T00:40:19Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:crewai (page 2)",
+      "_sources": [
+        "V2"
+      ]
+    },
+    {
+      "owner_repo": "HexamindOrganisation/hexgate",
+      "url": "https://github.com/HexamindOrganisation/hexgate",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Authorization infrastructure for AI agents - policy enforcement, signed WASM bundles, per-request user scope, and audit trail for OpenAI Agents, LangChain, Google ADK, and Pydantic AI.",
+      "language": "Python",
+      "stars": 14,
+      "pushed_at": "2026-06-12T15:30:51Z",
+      "archived": false,
+      "license": "MIT",
+      "source_query": "topic:openai-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "sattyamjjain/agent-airlock",
+      "url": "https://github.com/sattyamjjain/agent-airlock",
+      "description": "Open-source security firewall for AI agents — validates tool calls, strips ghost arguments, enforces type safety, PII masking, RBAC, cost tracking & sandbox isolation. Works with LangChain, OpenAI Agents SDK, PydanticAI & CrewAI.",
+      "language": "Python",
+      "stars": 8,
+      "pushed_at": "2026-06-14T08:00:12Z",
+      "created_at": "2026-01-31T08:43:37Z",
+      "license": "MIT",
+      "source_query": "topic:crewai pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "maximem-ai/maximem_synap_sdk",
+      "url": "https://github.com/maximem-ai/maximem_synap_sdk",
+      "description": "Maximem Synap is the memory layer that makes AI agents remember. 92% LongMemEval, 93.2% on LOCOMO. Works natively with LangChain, LlamaIndex, CrewAI, Google ADK, AutoGen, OpenAI Agents, Semantic Kernel, Haystack, and Pydantic AI.",
+      "language": "Python",
+      "stars": 6,
+      "pushed_at": "2026-06-14T00:07:52Z",
+      "created_at": "2026-04-10T08:19:34Z",
+      "license": "Apache-2.0",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "m24927605/agentic-spendguard",
+      "url": "https://github.com/m24927605/agentic-spendguard",
+      "in_v1": false,
+      "in_v2": false,
+      "from_github_search": true,
+      "description": "Agentic SpendGuard — audit-chain spend control for LLM agents. KMS-signed decisions, Stripe-style auth/capture ledger, operator approval, multi-tenant. Adapters for Pydantic-AI, LangChain, LangGraph, OpenAI Agents SDK, Microsoft AGT.",
+      "language": "Rust",
+      "stars": 3,
+      "pushed_at": "2026-06-13T03:10:23Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "source_query": "topic:openai-agents",
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "adamabat/pydantic-ai-backend",
+      "url": "https://github.com/adamabat/pydantic-ai-backend",
+      "description": "🤖 Build intelligent agents with pydantic-ai-backend, a simple framework for creating, managing, and deploying AI-powered applications efficiently.",
+      "language": "Python",
+      "stars": 1,
+      "pushed_at": "2026-06-15T08:47:34Z",
+      "created_at": "2025-07-30T15:55:52Z",
+      "license": "MIT",
+      "source_query": "topic:langgraph pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "ProjectProRepo/How-to-Build-an-AI-Agent-with-Pydantic-AI",
+      "url": "https://github.com/ProjectProRepo/How-to-Build-an-AI-Agent-with-Pydantic-AI",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "pydantic/pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "pydantic/pydantic-ai-harness",
+      "url": "https://github.com/pydantic/pydantic-ai-harness",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "pydantic/pydantic-ai-temporal-example",
+      "url": "https://github.com/pydantic/pydantic-ai-temporal-example",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "stephenc222/example-pydantic-ai-multi-modal",
+      "url": "https://github.com/stephenc222/example-pydantic-ai-multi-modal",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "vstorm-co/pydantic-ai-examples",
+      "url": "https://github.com/vstorm-co/pydantic-ai-examples",
+      "in_v1": true,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "vstorm-co/pydantic-ai-todo",
+      "url": "https://github.com/vstorm-co/pydantic-ai-todo",
+      "in_v1": false,
+      "in_v2": true,
+      "from_github_search": false,
+      "description": null,
+      "language": null,
+      "stars": null,
+      "pushed_at": null,
+      "archived": false,
+      "license": null,
+      "source_query": null,
+      "http_status_on_check": 200,
+      "redirected_to": null,
+      "_sources": [
+        "V1"
+      ]
+    },
+    {
+      "owner_repo": "spichkinevgeniy/pydantic-ai-autobrowser",
+      "url": "https://github.com/spichkinevgeniy/pydantic-ai-autobrowser",
+      "description": "Open-source AI agent for web automation and scraping, built with PydanticAI and Playwright MCP.",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-03-30T23:23:59Z",
+      "created_at": "2026-03-30T21:47:57Z",
+      "license": "MIT",
+      "source_query": "topic:browser-agent pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "pathcourse-health/pch-framework-adapters",
+      "url": "https://github.com/pathcourse-health/pch-framework-adapters",
+      "description": "PCH adapters for LangChain, CrewAI, Pydantic AI, AutoGen, and the Vercel AI SDK - autonomous agent inference with USDC billing on Base L2",
+      "language": "Python",
+      "stars": 0,
+      "pushed_at": "2026-05-03T17:40:08Z",
+      "created_at": "2026-04-29T03:21:16Z",
+      "license": "MIT",
+      "source_query": "topic:autogen pushed:>2026-01-01",
+      "_sources": [
+        "3121"
+      ]
+    },
+    {
+      "owner_repo": "Toywa/awesome-pydantic-ai",
+      "url": "https://github.com/Toywa/awesome-pydantic-ai",
+      "description": "🤖 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured outputs.",
+      "language": null,
+      "stars": 0,
+      "pushed_at": "2026-06-15T08:59:44Z",
+      "created_at": "2026-01-30T12:03:53Z",
+      "license": "NOASSERTION",
+      "source_query": "topic:llm-agent created:>2025-12-01",
+      "_sources": [
+        "3121"
+      ]
+    }
+  ]
+}
