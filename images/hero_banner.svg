@@ -1,25 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 600" width="1400" height="600" font-family="Inter, system-ui, sans-serif">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0%" stop-color="#0F172A"/>
-  <stop offset="50%" stop-color="#1E1B4B"/>
-  <stop offset="100%" stop-color="#312E81"/>
-</linearGradient>
-<radialGradient id="glow" cx="50%" cy="40%" r="60%">
-  <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.45"/>
-  <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
-</radialGradient>
-<linearGradient id="titleg" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%" stop-color="#34D399"/>
-  <stop offset="50%" stop-color="#22D3EE"/>
-  <stop offset="100%" stop-color="#A78BFA"/>
-</linearGradient>
-<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-  <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
-  <feOffset dx="0" dy="4"/>
-  <feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer>
-  <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0F172A"/><stop offset="50%" stop-color="#1E1B4B"/><stop offset="100%" stop-color="#312E81"/></linearGradient>
+<radialGradient id="glow" cx="50%" cy="40%" r="60%"><stop offset="0%" stop-color="#A78BFA" stop-opacity="0.45"/><stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<linearGradient id="titleg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#34D399"/><stop offset="50%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur in="SourceAlpha" stdDeviation="6"/><feOffset dx="0" dy="4"/><feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1400" height="600" fill="url(#bg)"/>
 <rect width="1400" height="600" fill="url(#glow)"/>
@@ -103,81 +87,69 @@
 <circle cx="1058" cy="430" r="1.6" fill="#fff" opacity="0.28"/>
 <circle cx="310" cy="536" r="1.6" fill="#fff" opacity="0.21"/>
 <circle cx="901" cy="187" r="1.6" fill="#fff" opacity="0.2"/>
-<text x="700" y="120" text-anchor="middle" font-size="78" font-weight="900" fill="url(#titleg)" letter-spacing="2">🌌 AgentVerse-5K</text>
+<text x="700" y="120" text-anchor="middle" font-size="78" font-weight="900" fill="url(#titleg)" letter-spacing="2">AgentVerse-5K</text>
 <text x="700" y="170" text-anchor="middle" font-size="24" font-weight="500" fill="#CBD5E1" letter-spacing="6">A UNIVERSE OF 5,080+ OPEN-SOURCE AI AGENT PROJECTS</text>
 <rect x="210" y="215" width="230" height="44" rx="22" fill="#22D3EE" opacity="0.15" stroke="#22D3EE" stroke-width="1.5"/>
-<text x="325" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#22D3EE">📦 5,080 repos</text>
+<text x="325" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#22D3EE">5,080 repos</text>
 <rect x="460" y="215" width="230" height="44" rx="22" fill="#FB7185" opacity="0.15" stroke="#FB7185" stroke-width="1.5"/>
-<text x="575" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#FB7185">⭐ 1,311 trending</text>
+<text x="575" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#FB7185">1,311 trending</text>
 <rect x="710" y="215" width="230" height="44" rx="22" fill="#A78BFA" opacity="0.15" stroke="#A78BFA" stroke-width="1.5"/>
-<text x="825" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#A78BFA">🧬 16 languages</text>
+<text x="825" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#A78BFA">16 languages</text>
 <rect x="960" y="215" width="230" height="44" rx="22" fill="#34D399" opacity="0.15" stroke="#34D399" stroke-width="1.5"/>
-<text x="1075" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#34D399">📅 Updated 2026</text>
+<text x="1075" y="243" text-anchor="middle" font-size="17" font-weight="600" fill="#34D399">Updated 2026</text>
 <rect x="100" y="300" width="180" height="130" rx="18" fill="#1E293B" stroke="#06B6D4" stroke-width="2" filter="url(#shadow)"/>
 <rect x="100" y="300" width="180" height="6" rx="3" fill="#06B6D4"/>
-<text x="190" y="350" text-anchor="middle" font-size="34">🔌</text>
-<text x="190" y="378" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">MCP</text>
-<text x="190" y="394" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Servers</text>
-<text x="190" y="416" text-anchor="middle" font-size="18" font-weight="800" fill="#06B6D4">542</text>
+<text x="190" y="348" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">MCP</text>
+<text x="190" y="370" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Servers</text>
+<text x="190" y="412" text-anchor="middle" font-size="22" font-weight="800" fill="#06B6D4">542</text>
 <rect x="304" y="300" width="180" height="130" rx="18" fill="#1E293B" stroke="#F59E0B" stroke-width="2" filter="url(#shadow)"/>
 <rect x="304" y="300" width="180" height="6" rx="3" fill="#F59E0B"/>
-<text x="394" y="350" text-anchor="middle" font-size="34">🎙️</text>
-<text x="394" y="378" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Voice</text>
-<text x="394" y="394" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Agents</text>
-<text x="394" y="416" text-anchor="middle" font-size="18" font-weight="800" fill="#F59E0B">202</text>
+<text x="394" y="348" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Voice</text>
+<text x="394" y="370" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Agents</text>
+<text x="394" y="412" text-anchor="middle" font-size="22" font-weight="800" fill="#F59E0B">202</text>
 <rect x="508" y="300" width="180" height="130" rx="18" fill="#1E293B" stroke="#10B981" stroke-width="2" filter="url(#shadow)"/>
 <rect x="508" y="300" width="180" height="6" rx="3" fill="#10B981"/>
-<text x="598" y="350" text-anchor="middle" font-size="34">💻</text>
-<text x="598" y="378" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Coding</text>
-<text x="598" y="394" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Agents</text>
-<text x="598" y="416" text-anchor="middle" font-size="18" font-weight="800" fill="#10B981">378</text>
+<text x="598" y="348" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Coding</text>
+<text x="598" y="370" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Agents</text>
+<text x="598" y="412" text-anchor="middle" font-size="22" font-weight="800" fill="#10B981">378</text>
 <rect x="712" y="300" width="180" height="130" rx="18" fill="#1E293B" stroke="#8B5CF6" stroke-width="2" filter="url(#shadow)"/>
 <rect x="712" y="300" width="180" height="6" rx="3" fill="#8B5CF6"/>
-<text x="802" y="350" text-anchor="middle" font-size="34">🕸️</text>
-<text x="802" y="378" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">LangGraph</text>
-<text x="802" y="416" text-anchor="middle" font-size="18" font-weight="800" fill="#8B5CF6">306</text>
+<text x="802" y="357" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">LangGraph</text>
+<text x="802" y="412" text-anchor="middle" font-size="22" font-weight="800" fill="#8B5CF6">306</text>
 <rect x="916" y="300" width="180" height="130" rx="18" fill="#1E293B" stroke="#EC4899" stroke-width="2" filter="url(#shadow)"/>
 <rect x="916" y="300" width="180" height="6" rx="3" fill="#EC4899"/>
-<text x="1006" y="350" text-anchor="middle" font-size="34">🤝</text>
-<text x="1006" y="378" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">AutoGen</text>
-<text x="1006" y="416" text-anchor="middle" font-size="18" font-weight="800" fill="#EC4899">192</text>
+<text x="1006" y="357" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">AutoGen</text>
+<text x="1006" y="412" text-anchor="middle" font-size="22" font-weight="800" fill="#EC4899">192</text>
 <rect x="1120" y="300" width="180" height="130" rx="18" fill="#1E293B" stroke="#EF4444" stroke-width="2" filter="url(#shadow)"/>
 <rect x="1120" y="300" width="180" height="6" rx="3" fill="#EF4444"/>
-<text x="1210" y="350" text-anchor="middle" font-size="34">👥</text>
-<text x="1210" y="378" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">CrewAI</text>
-<text x="1210" y="416" text-anchor="middle" font-size="18" font-weight="800" fill="#EF4444">242</text>
+<text x="1210" y="357" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">CrewAI</text>
+<text x="1210" y="412" text-anchor="middle" font-size="22" font-weight="800" fill="#EF4444">242</text>
 <rect x="100" y="454" width="180" height="130" rx="18" fill="#1E293B" stroke="#F97316" stroke-width="2" filter="url(#shadow)"/>
 <rect x="100" y="454" width="180" height="6" rx="3" fill="#F97316"/>
-<text x="190" y="504" text-anchor="middle" font-size="34">🛠️</text>
-<text x="190" y="532" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Tool</text>
-<text x="190" y="548" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Calling</text>
-<text x="190" y="570" text-anchor="middle" font-size="18" font-weight="800" fill="#F97316">203</text>
+<text x="190" y="502" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Tool</text>
+<text x="190" y="524" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Calling</text>
+<text x="190" y="566" text-anchor="middle" font-size="22" font-weight="800" fill="#F97316">203</text>
 <rect x="304" y="454" width="180" height="130" rx="18" fill="#1E293B" stroke="#3B82F6" stroke-width="2" filter="url(#shadow)"/>
 <rect x="304" y="454" width="180" height="6" rx="3" fill="#3B82F6"/>
-<text x="394" y="504" text-anchor="middle" font-size="34">🏗️</text>
-<text x="394" y="532" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Agent</text>
-<text x="394" y="548" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Frameworks</text>
-<text x="394" y="570" text-anchor="middle" font-size="18" font-weight="800" fill="#3B82F6">283</text>
+<text x="394" y="502" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Agent</text>
+<text x="394" y="524" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Frameworks</text>
+<text x="394" y="566" text-anchor="middle" font-size="22" font-weight="800" fill="#3B82F6">283</text>
 <rect x="508" y="454" width="180" height="130" rx="18" fill="#1E293B" stroke="#14B8A6" stroke-width="2" filter="url(#shadow)"/>
 <rect x="508" y="454" width="180" height="6" rx="3" fill="#14B8A6"/>
-<text x="598" y="504" text-anchor="middle" font-size="34">🤖</text>
-<text x="598" y="532" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Agentic</text>
-<text x="598" y="548" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">AI</text>
-<text x="598" y="570" text-anchor="middle" font-size="18" font-weight="800" fill="#14B8A6">1,150</text>
+<text x="598" y="502" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Agentic</text>
+<text x="598" y="524" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">AI</text>
+<text x="598" y="566" text-anchor="middle" font-size="22" font-weight="800" fill="#14B8A6">1,150</text>
 <rect x="712" y="454" width="180" height="130" rx="18" fill="#1E293B" stroke="#A855F7" stroke-width="2" filter="url(#shadow)"/>
 <rect x="712" y="454" width="180" height="6" rx="3" fill="#A855F7"/>
-<text x="802" y="504" text-anchor="middle" font-size="34">🧭</text>
-<text x="802" y="532" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Autonomous</text>
-<text x="802" y="570" text-anchor="middle" font-size="18" font-weight="800" fill="#A855F7">525</text>
+<text x="802" y="511" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Autonomous</text>
+<text x="802" y="566" text-anchor="middle" font-size="22" font-weight="800" fill="#A855F7">525</text>
 <rect x="916" y="454" width="180" height="130" rx="18" fill="#1E293B" stroke="#22D3EE" stroke-width="2" filter="url(#shadow)"/>
 <rect x="916" y="454" width="180" height="6" rx="3" fill="#22D3EE"/>
-<text x="1006" y="504" text-anchor="middle" font-size="34">🧠</text>
-<text x="1006" y="532" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">LLM</text>
-<text x="1006" y="548" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Agents</text>
-<text x="1006" y="570" text-anchor="middle" font-size="18" font-weight="800" fill="#22D3EE">2,224</text>
+<text x="1006" y="502" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">LLM</text>
+<text x="1006" y="524" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Agents</text>
+<text x="1006" y="566" text-anchor="middle" font-size="22" font-weight="800" fill="#22D3EE">2,224</text>
 <rect x="1120" y="454" width="180" height="130" rx="18" fill="#1E293B" stroke="#FB7185" stroke-width="2" filter="url(#shadow)"/>
 <rect x="1120" y="454" width="180" height="6" rx="3" fill="#FB7185"/>
-<text x="1210" y="504" text-anchor="middle" font-size="34">🔥</text>
-<text x="1210" y="532" text-anchor="middle" font-size="13" font-weight="700" fill="#F1F5F9">Trending</text>
-<text x="1210" y="570" text-anchor="middle" font-size="18" font-weight="800" fill="#FB7185">1,311</text>
+<text x="1210" y="511" text-anchor="middle" font-size="18" font-weight="700" fill="#F1F5F9">Trending</text>
+<text x="1210" y="566" text-anchor="middle" font-size="22" font-weight="800" fill="#FB7185">1,311</text>
 </svg>
