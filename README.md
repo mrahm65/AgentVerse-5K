@@ -4,20 +4,52 @@
 
 ![AgentVerse-5K](images/hero_banner.png)
 
+
+
 [![AgentVerse--5K](https://img.shields.io/badge/AgentVerse--5K-universe-2ea44f?logo=github)](#)  [![Repos](https://img.shields.io/badge/repos-5,080-blue)](#)  [![Updated](https://img.shields.io/badge/updated-2026-06-16-informational)](#)  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A curated, machine-indexed collection of **5,080 unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. 
+A curated, machine-indexed collection of **5,080 unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. Inspired by [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects), scaled to 10× the size. 🚀
+
+---
+
+## ⚡ Quick Start
+
+Pick a category, open the table, jump straight to a repo:
+
+```bash
+# Clone this index
+git clone https://github.com/mrahm65/AgentVerse-5K.git
+cd AgentVerse-5K
+
+# Browse a category (any .md file in categories/ renders as a table)
+less categories/mcp-servers.md
+less categories/langgraph.md
+less categories/trending.md
+
+# Or open in your editor / GitHub web UI
+code categories/
+```
+
+Each row links straight to the source repo on GitHub — clone the one you want and follow its own README to install and run.
+
+**Regenerate the index** after updating `data/repos_5080_all_unique.json`:
+
+```bash
+python3 scripts/build.py
+```
 
 ---
 
 ## 📋 Table of Contents
 
+- [Quick Start](#-quick-start)
 - [Introduction](#-introduction)
 - [Dataset at a Glance](#-dataset-at-a-glance)
 - [Categories](#-categories)
 - [By Programming Language](#-by-programming-language)
 - [Top 30 Trending Repos](#-top-30-trending-repos)
 - [How the List Was Built](#-how-the-list-was-built)
+- [Industry Applications](#-industry-applications)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -55,6 +87,10 @@ Each repository is tagged into one or more categories so you can drill down by u
 ---
 
 ## 🗂️ Categories
+
+
+![Category Map](images/categories_mindmap.png)
+
 
 Click any category to open its full table.
 
@@ -136,6 +172,14 @@ Ranked by star count across the entire dataset.
 - Rendered as Markdown tables, one file per category, linked from this README.
 
 Source data: `repos_5080_all_unique.json` (included as the upstream dataset).
+
+---
+
+## 🏭 Industry Applications
+
+The 5,080 indexed agents span every major industry — from healthcare and finance to gaming and agriculture. Use the mindmap below as a starting point, then drill into the matching category file for repos.
+
+![Industry Use Cases](images/industry_usecases.png)
 
 ---
 
