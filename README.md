@@ -8,7 +8,7 @@
 
 [![AgentVerse--5K](https://img.shields.io/badge/AgentVerse--5K-universe-2ea44f?logo=github)](#)  [![Repos](https://img.shields.io/badge/repos-5,080-blue)](#)  [![Updated](https://img.shields.io/badge/updated-2026-06-16-informational)](#)  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A curated, machine-indexed collection of **5,080 unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. 
+A curated, machine-indexed collection of **5,080 unique open-source AI-agent projects** — spanning MCP servers, voice agents, coding agents, LangGraph, AutoGen, CrewAI, tool-calling frameworks and more. Inspired by [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects), scaled to 10× the size. 🚀
 
 ---
 
@@ -49,6 +49,7 @@ python3 scripts/build.py
 - [By Programming Language](#-by-programming-language)
 - [Top 30 Trending Repos](#-top-30-trending-repos)
 - [How the List Was Built](#-how-the-list-was-built)
+- [Framework Comparison](#-framework-comparison)
 - [Industry Applications](#-industry-applications)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -172,6 +173,35 @@ Ranked by star count across the entire dataset.
 - Rendered as Markdown tables, one file per category, linked from this README.
 
 Source data: `repos_5080_all_unique.json` (included as the upstream dataset).
+
+---
+
+## 📊 Framework Comparison
+
+A quick side-by-side of the major open-source agent frameworks. **Repos** = projects in this index that build on each framework. **Best for** is the framework's sweet spot from production experience.
+
+| Framework | Style | Language | Repos in Index | Maintainer | Best for |
+| --------- | ----- | -------- | -------------- | ---------- | -------- |
+| [**LangGraph**](https://github.com/langchain-ai/langgraph)         | Graph / stateful workflows         | Python · TS  | `306`  | LangChain AI      | Long-running, branching agents with explicit state and human-in-the-loop. |
+| [**LangChain**](https://github.com/langchain-ai/langchain)         | Chains + tool-calling              | Python · TS  | `109`  | LangChain AI      | Quick prototypes, RAG pipelines, broad integrations with every LLM and store. |
+| [**AutoGen**](https://github.com/microsoft/autogen)                | Multi-agent conversations          | Python · .NET | `192` | Microsoft         | Two-or-more agents debating, code-execution loops, research workflows. |
+| [**CrewAI**](https://github.com/crewAIInc/crewAI)                  | Role-based crews + tasks           | Python       | `242`  | CrewAI Inc.       | Specialist-role orchestration (researcher, writer, reviewer) on bounded tasks. |
+| [**LlamaIndex**](https://github.com/run-llama/llama_index)         | Data-first agents (RAG-centric)    | Python · TS  | `140`  | LlamaIndex        | Document-heavy agents, structured extraction, query over private data. |
+| [**Pydantic AI**](https://github.com/pydantic/pydantic-ai)         | Type-safe agents                   | Python       | `11`   | Pydantic          | Strict schema-validated tool calls, production-grade Python agents. |
+| [**Smolagents**](https://github.com/huggingface/smolagents)        | Tiny code-writing agents           | Python       | `1`    | Hugging Face      | Agents that write & run code (ReAct-style) with minimal boilerplate. |
+| [**Agno**](https://github.com/agno-agi/agno)                       | Memory + reasoning agents          | Python       | `66`   | Agno              | Multi-modal, memory-rich agents; alternative to LangChain. |
+| [**OpenAI Swarm**](https://github.com/openai/swarm)                | Lightweight handoffs               | Python       | `0`    | OpenAI            | Educational reference for hand-off patterns and routines (experimental). |
+| [**Haystack**](https://github.com/deepset-ai/haystack)             | RAG + production pipelines         | Python       | `4`    | deepset           | Search-first agents, production RAG, document QA at scale. |
+
+**How to pick:**
+- Need **graphs + state** → LangGraph
+- Need **multi-agent debate** → AutoGen
+- Need **role specialists** → CrewAI
+- Need **data-grounded agents** → LlamaIndex or Haystack
+- Need **type safety** → Pydantic AI
+- Need **fastest "hello agent"** → Smolagents or Swarm
+
+> Counts are repos in this index referencing each framework — useful as a proxy for community traction in 2026. They will rise/fall as the ecosystem moves; rerun `python3 scripts/build.py` to refresh.
 
 ---
 
