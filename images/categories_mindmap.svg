@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000" font-family="Inter, system-ui, sans-serif">
+<defs>
+<radialGradient id="bg2" cx="50%" cy="50%" r="75%">
+  <stop offset="0%"  stop-color="#1E1B4B"/>
+  <stop offset="60%" stop-color="#0F172A"/>
+  <stop offset="100%" stop-color="#020617"/>
+</radialGradient>
+<radialGradient id="core" cx="50%" cy="50%" r="50%">
+  <stop offset="0%"  stop-color="#22D3EE"/>
+  <stop offset="50%" stop-color="#8B5CF6"/>
+  <stop offset="100%" stop-color="#312E81"/>
+</radialGradient>
+<filter id="glow2" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="6"/>
+  <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect width="1400" height="1000" fill="url(#bg2)"/>
+<circle cx="926" cy="886" r="1.8" fill="#fff" opacity="0.62"/>
+<circle cx="953" cy="462" r="1.8" fill="#fff" opacity="0.62"/>
+<circle cx="388" cy="189" r="1.8" fill="#fff" opacity="0.41"/>
+<circle cx="1257" cy="812" r="0.8" fill="#fff" opacity="0.2"/>
+<circle cx="621" cy="145" r="0.6" fill="#fff" opacity="0.45"/>
+<circle cx="1299" cy="42" r="1.8" fill="#fff" opacity="0.69"/>
+<circle cx="927" cy="669" r="1.8" fill="#fff" opacity="0.51"/>
+<circle cx="1276" cy="15" r="1.8" fill="#fff" opacity="0.18"/>
+<circle cx="73" cy="194" r="0.8" fill="#fff" opacity="0.48"/>
+<circle cx="950" cy="334" r="1.4" fill="#fff" opacity="0.48"/>
+<circle cx="400" cy="531" r="0.8" fill="#fff" opacity="0.5"/>
+<circle cx="1023" cy="4" r="0.6" fill="#fff" opacity="0.4"/>
+<circle cx="569" cy="416" r="1.8" fill="#fff" opacity="0.7"/>
+<circle cx="170" cy="724" r="1.0" fill="#fff" opacity="0.32"/>
+<circle cx="470" cy="525" r="1.0" fill="#fff" opacity="0.17"/>
+<circle cx="1153" cy="784" r="0.6" fill="#fff" opacity="0.37"/>
+<circle cx="595" cy="395" r="0.6" fill="#fff" opacity="0.68"/>
+<circle cx="1" cy="218" r="0.8" fill="#fff" opacity="0.66"/>
+<circle cx="107" cy="481" r="1.4" fill="#fff" opacity="0.69"/>
+<circle cx="813" cy="429" r="0.6" fill="#fff" opacity="0.46"/>
+<circle cx="406" cy="797" r="1.0" fill="#fff" opacity="0.34"/>
+<circle cx="637" cy="340" r="0.6" fill="#fff" opacity="0.68"/>
+<circle cx="241" cy="137" r="0.8" fill="#fff" opacity="0.54"/>
+<circle cx="22" cy="61" r="1.4" fill="#fff" opacity="0.59"/>
+<circle cx="363" cy="698" r="1.8" fill="#fff" opacity="0.25"/>
+<circle cx="1042" cy="195" r="0.8" fill="#fff" opacity="0.38"/>
+<circle cx="785" cy="119" r="1.4" fill="#fff" opacity="0.38"/>
+<circle cx="435" cy="0" r="1.0" fill="#fff" opacity="0.63"/>
+<circle cx="1213" cy="311" r="0.6" fill="#fff" opacity="0.27"/>
+<circle cx="807" cy="874" r="1.8" fill="#fff" opacity="0.5"/>
+<circle cx="205" cy="43" r="0.8" fill="#fff" opacity="0.27"/>
+<circle cx="528" cy="9" r="1.8" fill="#fff" opacity="0.33"/>
+<circle cx="606" cy="395" r="0.6" fill="#fff" opacity="0.19"/>
+<circle cx="427" cy="596" r="0.8" fill="#fff" opacity="0.16"/>
+<circle cx="755" cy="380" r="1.8" fill="#fff" opacity="0.4"/>
+<circle cx="1202" cy="495" r="1.8" fill="#fff" opacity="0.22"/>
+<circle cx="790" cy="187" r="0.8" fill="#fff" opacity="0.32"/>
+<circle cx="467" cy="837" r="1.8" fill="#fff" opacity="0.29"/>
+<circle cx="388" cy="162" r="1.8" fill="#fff" opacity="0.26"/>
+<circle cx="795" cy="903" r="1.4" fill="#fff" opacity="0.48"/>
+<circle cx="863" cy="48" r="0.6" fill="#fff" opacity="0.21"/>
+<circle cx="1049" cy="985" r="1.0" fill="#fff" opacity="0.28"/>
+<circle cx="802" cy="263" r="1.4" fill="#fff" opacity="0.6"/>
+<circle cx="1221" cy="502" r="1.0" fill="#fff" opacity="0.44"/>
+<circle cx="140" cy="129" r="0.8" fill="#fff" opacity="0.41"/>
+<circle cx="1338" cy="872" r="1.8" fill="#fff" opacity="0.49"/>
+<circle cx="573" cy="217" r="0.8" fill="#fff" opacity="0.56"/>
+<circle cx="141" cy="275" r="1.4" fill="#fff" opacity="0.4"/>
+<circle cx="123" cy="47" r="0.8" fill="#fff" opacity="0.31"/>
+<circle cx="1087" cy="585" r="0.8" fill="#fff" opacity="0.2"/>
+<circle cx="283" cy="912" r="1.4" fill="#fff" opacity="0.69"/>
+<circle cx="1345" cy="750" r="1.8" fill="#fff" opacity="0.47"/>
+<circle cx="287" cy="604" r="0.6" fill="#fff" opacity="0.66"/>
+<circle cx="972" cy="932" r="1.0" fill="#fff" opacity="0.54"/>
+<circle cx="68" cy="21" r="1.8" fill="#fff" opacity="0.5"/>
+<circle cx="987" cy="68" r="1.0" fill="#fff" opacity="0.33"/>
+<circle cx="148" cy="77" r="1.4" fill="#fff" opacity="0.45"/>
+<circle cx="91" cy="921" r="0.8" fill="#fff" opacity="0.59"/>
+<circle cx="699" cy="360" r="0.6" fill="#fff" opacity="0.53"/>
+<circle cx="159" cy="892" r="1.4" fill="#fff" opacity="0.67"/>
+<circle cx="61" cy="884" r="1.4" fill="#fff" opacity="0.47"/>
+<circle cx="1279" cy="678" r="1.4" fill="#fff" opacity="0.36"/>
+<circle cx="25" cy="623" r="0.6" fill="#fff" opacity="0.19"/>
+<circle cx="1309" cy="118" r="1.0" fill="#fff" opacity="0.63"/>
+<circle cx="676" cy="397" r="1.8" fill="#fff" opacity="0.4"/>
+<circle cx="947" cy="858" r="1.8" fill="#fff" opacity="0.2"/>
+<circle cx="1053" cy="30" r="1.0" fill="#fff" opacity="0.48"/>
+<circle cx="984" cy="22" r="0.8" fill="#fff" opacity="0.68"/>
+<circle cx="231" cy="509" r="1.8" fill="#fff" opacity="0.51"/>
+<circle cx="995" cy="261" r="0.6" fill="#fff" opacity="0.35"/>
+<circle cx="293" cy="694" r="1.8" fill="#fff" opacity="0.26"/>
+<circle cx="347" cy="771" r="1.0" fill="#fff" opacity="0.51"/>
+<circle cx="905" cy="510" r="0.8" fill="#fff" opacity="0.33"/>
+<circle cx="1363" cy="256" r="0.8" fill="#fff" opacity="0.5"/>
+<circle cx="410" cy="901" r="0.8" fill="#fff" opacity="0.36"/>
+<circle cx="1194" cy="942" r="1.0" fill="#fff" opacity="0.27"/>
+<circle cx="275" cy="508" r="1.0" fill="#fff" opacity="0.61"/>
+<circle cx="83" cy="728" r="0.6" fill="#fff" opacity="0.67"/>
+<circle cx="566" cy="841" r="0.8" fill="#fff" opacity="0.21"/>
+<circle cx="965" cy="281" r="0.8" fill="#fff" opacity="0.61"/>
+<circle cx="783" cy="640" r="1.8" fill="#fff" opacity="0.42"/>
+<circle cx="645" cy="733" r="1.8" fill="#fff" opacity="0.4"/>
+<circle cx="152" cy="848" r="0.6" fill="#fff" opacity="0.3"/>
+<circle cx="1244" cy="42" r="1.0" fill="#fff" opacity="0.46"/>
+<circle cx="632" cy="664" r="1.8" fill="#fff" opacity="0.16"/>
+<circle cx="278" cy="414" r="1.4" fill="#fff" opacity="0.25"/>
+<circle cx="545" cy="243" r="0.8" fill="#fff" opacity="0.59"/>
+<circle cx="1288" cy="118" r="1.4" fill="#fff" opacity="0.21"/>
+<circle cx="1096" cy="670" r="1.0" fill="#fff" opacity="0.68"/>
+<circle cx="405" cy="204" r="1.4" fill="#fff" opacity="0.29"/>
+<circle cx="22" cy="773" r="1.4" fill="#fff" opacity="0.44"/>
+<circle cx="74" cy="183" r="0.8" fill="#fff" opacity="0.3"/>
+<circle cx="708" cy="552" r="1.8" fill="#fff" opacity="0.43"/>
+<circle cx="326" cy="402" r="0.8" fill="#fff" opacity="0.2"/>
+<circle cx="794" cy="133" r="1.4" fill="#fff" opacity="0.4"/>
+<circle cx="1281" cy="908" r="0.6" fill="#fff" opacity="0.36"/>
+<circle cx="1164" cy="668" r="1.8" fill="#fff" opacity="0.59"/>
+<circle cx="702" cy="474" r="1.0" fill="#fff" opacity="0.51"/>
+<circle cx="419" cy="101" r="0.6" fill="#fff" opacity="0.27"/>
+<circle cx="799" cy="89" r="1.0" fill="#fff" opacity="0.45"/>
+<circle cx="656" cy="268" r="0.6" fill="#fff" opacity="0.34"/>
+<circle cx="169" cy="38" r="1.4" fill="#fff" opacity="0.34"/>
+<circle cx="863" cy="786" r="1.0" fill="#fff" opacity="0.42"/>
+<circle cx="58" cy="223" r="0.6" fill="#fff" opacity="0.39"/>
+<circle cx="71" cy="177" r="1.8" fill="#fff" opacity="0.33"/>
+<circle cx="287" cy="481" r="0.8" fill="#fff" opacity="0.7"/>
+<circle cx="1061" cy="860" r="1.4" fill="#fff" opacity="0.67"/>
+<circle cx="1008" cy="592" r="0.6" fill="#fff" opacity="0.57"/>
+<circle cx="899" cy="539" r="1.8" fill="#fff" opacity="0.31"/>
+<circle cx="1150" cy="654" r="0.8" fill="#fff" opacity="0.44"/>
+<circle cx="1146" cy="262" r="1.0" fill="#fff" opacity="0.52"/>
+<circle cx="1248" cy="213" r="1.0" fill="#fff" opacity="0.62"/>
+<circle cx="1115" cy="536" r="1.0" fill="#fff" opacity="0.47"/>
+<circle cx="411" cy="420" r="1.8" fill="#fff" opacity="0.21"/>
+<circle cx="10" cy="619" r="1.4" fill="#fff" opacity="0.17"/>
+<circle cx="90" cy="528" r="1.4" fill="#fff" opacity="0.45"/>
+<circle cx="1152" cy="124" r="1.4" fill="#fff" opacity="0.2"/>
+<circle cx="341" cy="67" r="1.8" fill="#fff" opacity="0.4"/>
+<circle cx="827" cy="275" r="0.8" fill="#fff" opacity="0.41"/>
+<circle cx="260" cy="347" r="1.4" fill="#fff" opacity="0.65"/>
+<circle cx="975" cy="537" r="1.0" fill="#fff" opacity="0.21"/>
+<circle cx="859" cy="632" r="0.6" fill="#fff" opacity="0.66"/>
+<circle cx="265" cy="718" r="0.6" fill="#fff" opacity="0.17"/>
+<circle cx="318" cy="232" r="0.6" fill="#fff" opacity="0.53"/>
+<circle cx="659" cy="740" r="1.0" fill="#fff" opacity="0.28"/>
+<circle cx="1021" cy="107" r="1.4" fill="#fff" opacity="0.55"/>
+<circle cx="251" cy="872" r="1.8" fill="#fff" opacity="0.49"/>
+<circle cx="404" cy="718" r="1.8" fill="#fff" opacity="0.63"/>
+<circle cx="47" cy="384" r="1.4" fill="#fff" opacity="0.6"/>
+<circle cx="1261" cy="163" r="1.8" fill="#fff" opacity="0.26"/>
+<circle cx="1292" cy="546" r="0.8" fill="#fff" opacity="0.44"/>
+<circle cx="1111" cy="626" r="1.8" fill="#fff" opacity="0.62"/>
+<circle cx="476" cy="936" r="1.0" fill="#fff" opacity="0.65"/>
+<circle cx="646" cy="617" r="1.0" fill="#fff" opacity="0.64"/>
+<circle cx="398" cy="223" r="0.8" fill="#fff" opacity="0.64"/>
+<circle cx="274" cy="910" r="0.8" fill="#fff" opacity="0.22"/>
+<circle cx="180" cy="265" r="1.4" fill="#fff" opacity="0.2"/>
+<circle cx="863" cy="556" r="0.8" fill="#fff" opacity="0.26"/>
+<circle cx="1286" cy="701" r="0.6" fill="#fff" opacity="0.2"/>
+<circle cx="1167" cy="698" r="1.0" fill="#fff" opacity="0.65"/>
+<circle cx="739" cy="118" r="1.8" fill="#fff" opacity="0.5"/>
+<circle cx="703" cy="514" r="0.8" fill="#fff" opacity="0.59"/>
+<circle cx="987" cy="108" r="0.6" fill="#fff" opacity="0.17"/>
+<circle cx="1129" cy="628" r="1.8" fill="#fff" opacity="0.65"/>
+<circle cx="985" cy="150" r="0.8" fill="#fff" opacity="0.25"/>
+<circle cx="417" cy="176" r="0.8" fill="#fff" opacity="0.69"/>
+<circle cx="1378" cy="97" r="1.8" fill="#fff" opacity="0.18"/>
+<circle cx="1394" cy="473" r="0.6" fill="#fff" opacity="0.57"/>
+<circle cx="669" cy="400" r="1.4" fill="#fff" opacity="0.38"/>
+<circle cx="726" cy="440" r="0.8" fill="#fff" opacity="0.48"/>
+<circle cx="27" cy="649" r="0.6" fill="#fff" opacity="0.61"/>
+<circle cx="371" cy="417" r="1.4" fill="#fff" opacity="0.35"/>
+<circle cx="758" cy="415" r="0.8" fill="#fff" opacity="0.48"/>
+<circle cx="194" cy="524" r="0.6" fill="#fff" opacity="0.33"/>
+<circle cx="173" cy="820" r="1.4" fill="#fff" opacity="0.46"/>
+<circle cx="391" cy="516" r="1.8" fill="#fff" opacity="0.69"/>
+<circle cx="528" cy="286" r="0.6" fill="#fff" opacity="0.56"/>
+<circle cx="327" cy="834" r="1.4" fill="#fff" opacity="0.22"/>
+<circle cx="675" cy="900" r="1.8" fill="#fff" opacity="0.53"/>
+<circle cx="884" cy="783" r="0.8" fill="#fff" opacity="0.37"/>
+<circle cx="700" cy="500" r="180" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.08" stroke-dasharray="4 6"/>
+<circle cx="700" cy="500" r="290" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.06" stroke-dasharray="4 6"/>
+<circle cx="700" cy="500" r="400" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.05" stroke-dasharray="4 6"/>
+<line x1="700.0" y1="405.0" x2="700.0" y2="180.0" stroke="#06B6D4" stroke-width="1.8" opacity="0.55"/>
+<circle cx="700.0" cy="180.0" r="40" fill="#06B6D4" opacity="0.2"/>
+<circle cx="700.0" cy="180.0" r="32" fill="#0F172A" stroke="#06B6D4" stroke-width="3" filter="url(#glow2)"/>
+<text x="700.0" y="186.0" text-anchor="middle" font-size="16" font-weight="800" fill="#06B6D4">542</text>
+<text x="700.0" y="125.0" text-anchor="middle" font-size="18" font-weight="700" fill="#E2E8F0">🔌 MCP Servers</text>
+<line x1="736.3549260746836" y1="412.2314444114278" x2="807.1513610622252" y2="241.31373089683973" stroke="#F59E0B" stroke-width="1.8" opacity="0.55"/>
+<circle cx="807.1513610622252" cy="241.31373089683973" r="34" fill="#F59E0B" opacity="0.2"/>
+<circle cx="807.1513610622252" cy="241.31373089683973" r="26" fill="#0F172A" stroke="#F59E0B" stroke-width="3" filter="url(#glow2)"/>
+<text x="807.1513610622252" y="247.31373089683973" text-anchor="middle" font-size="16" font-weight="800" fill="#F59E0B">202</text>
+<text x="827.81626640994" y="196.4242361412302" text-anchor="start" font-size="18" font-weight="700" fill="#E2E8F0">🎙️ Voice Agents</text>
+<line x1="767.175144212722" y1="432.824855787278" x2="897.9898987322333" y2="302.0101012677667" stroke="#10B981" stroke-width="1.8" opacity="0.55"/>
+<circle cx="897.9898987322333" cy="302.0101012677667" r="34" fill="#10B981" opacity="0.2"/>
+<circle cx="897.9898987322333" cy="302.0101012677667" r="26" fill="#0F172A" stroke="#10B981" stroke-width="3" filter="url(#glow2)"/>
+<text x="897.9898987322333" y="308.0101012677667" text-anchor="middle" font-size="16" font-weight="800" fill="#10B981">378</text>
+<text x="936.1736649163068" y="268.82633508369315" text-anchor="start" font-size="18" font-weight="700" fill="#E2E8F0">💻 Coding Agents</text>
+<line x1="787.7685555885722" y1="463.64507392531647" x2="958.6862691031603" y2="392.84863893777487" stroke="#8B5CF6" stroke-width="1.8" opacity="0.55"/>
+<circle cx="958.6862691031603" cy="392.84863893777487" r="34" fill="#8B5CF6" opacity="0.2"/>
+<circle cx="958.6862691031603" cy="392.84863893777487" r="26" fill="#0F172A" stroke="#8B5CF6" stroke-width="3" filter="url(#glow2)"/>
+<text x="958.6862691031603" y="398.84863893777487" text-anchor="middle" font-size="16" font-weight="800" fill="#8B5CF6">306</text>
+<text x="1008.5757638587697" y="377.18373359006" text-anchor="start" font-size="18" font-weight="700" fill="#E2E8F0">🕸️ LangGraph</text>
+<line x1="795.0" y1="500.0" x2="980.0" y2="500.0" stroke="#EC4899" stroke-width="1.8" opacity="0.55"/>
+<circle cx="980.0" cy="500.0" r="34" fill="#EC4899" opacity="0.2"/>
+<circle cx="980.0" cy="500.0" r="26" fill="#0F172A" stroke="#EC4899" stroke-width="3" filter="url(#glow2)"/>
+<text x="980.0" y="506.0" text-anchor="middle" font-size="16" font-weight="800" fill="#EC4899">192</text>
+<text x="1034.0" y="505.0" text-anchor="start" font-size="18" font-weight="700" fill="#E2E8F0">🤝 AutoGen</text>
+<line x1="787.7685555885722" y1="536.3549260746835" x2="958.6862691031603" y2="607.1513610622251" stroke="#EF4444" stroke-width="1.8" opacity="0.55"/>
+<circle cx="958.6862691031603" cy="607.1513610622251" r="34" fill="#EF4444" opacity="0.2"/>
+<circle cx="958.6862691031603" cy="607.1513610622251" r="26" fill="#0F172A" stroke="#EF4444" stroke-width="3" filter="url(#glow2)"/>
+<text x="958.6862691031603" y="613.1513610622251" text-anchor="middle" font-size="16" font-weight="800" fill="#EF4444">242</text>
+<text x="1008.5757638587697" y="632.81626640994" text-anchor="start" font-size="18" font-weight="700" fill="#E2E8F0">👥 CrewAI</text>
+<line x1="767.175144212722" y1="567.175144212722" x2="897.9898987322333" y2="697.9898987322333" stroke="#F97316" stroke-width="1.8" opacity="0.55"/>
+<circle cx="897.9898987322333" cy="697.9898987322333" r="34" fill="#F97316" opacity="0.2"/>
+<circle cx="897.9898987322333" cy="697.9898987322333" r="26" fill="#0F172A" stroke="#F97316" stroke-width="3" filter="url(#glow2)"/>
+<text x="897.9898987322333" y="703.9898987322333" text-anchor="middle" font-size="16" font-weight="800" fill="#F97316">203</text>
+<text x="936.1736649163068" y="741.1736649163068" text-anchor="start" font-size="18" font-weight="700" fill="#E2E8F0">🛠️ Tool Calling</text>
+<line x1="736.3549260746836" y1="587.7685555885722" x2="807.1513610622252" y2="758.6862691031603" stroke="#3B82F6" stroke-width="1.8" opacity="0.55"/>
+<circle cx="807.1513610622252" cy="758.6862691031603" r="34" fill="#3B82F6" opacity="0.2"/>
+<circle cx="807.1513610622252" cy="758.6862691031603" r="26" fill="#0F172A" stroke="#3B82F6" stroke-width="3" filter="url(#glow2)"/>
+<text x="807.1513610622252" y="764.6862691031603" text-anchor="middle" font-size="16" font-weight="800" fill="#3B82F6">283</text>
+<text x="827.81626640994" y="813.5757638587697" text-anchor="start" font-size="18" font-weight="700" fill="#E2E8F0">🏗️ Agent Frameworks</text>
+<line x1="700.0" y1="595.0" x2="700.0" y2="860.0" stroke="#14B8A6" stroke-width="1.8" opacity="0.55"/>
+<circle cx="700.0" cy="860.0" r="46" fill="#14B8A6" opacity="0.2"/>
+<circle cx="700.0" cy="860.0" r="38" fill="#0F172A" stroke="#14B8A6" stroke-width="3" filter="url(#glow2)"/>
+<text x="700.0" y="866.0" text-anchor="middle" font-size="16" font-weight="800" fill="#14B8A6">1,150</text>
+<text x="700.0" y="931.0" text-anchor="middle" font-size="18" font-weight="700" fill="#E2E8F0">🤖 Agentic AI</text>
+<line x1="663.6450739253165" y1="587.7685555885722" x2="577.5413016431713" y2="795.6414504036118" stroke="#A855F7" stroke-width="1.8" opacity="0.55"/>
+<circle cx="577.5413016431713" cy="795.6414504036118" r="40" fill="#A855F7" opacity="0.2"/>
+<circle cx="577.5413016431713" cy="795.6414504036118" r="32" fill="#0F172A" stroke="#A855F7" stroke-width="3" filter="url(#glow2)"/>
+<text x="577.5413016431713" y="801.6414504036118" text-anchor="middle" font-size="16" font-weight="800" fill="#A855F7">525</text>
+<text x="554.5802957012659" y="856.074222354289" text-anchor="end" font-size="18" font-weight="700" fill="#E2E8F0">🧭 Autonomous</text>
+<line x1="632.824855787278" y1="567.175144212722" x2="445.4415587728429" y2="754.5584412271571" stroke="#22D3EE" stroke-width="1.8" opacity="0.55"/>
+<circle cx="445.4415587728429" cy="754.5584412271571" r="46" fill="#22D3EE" opacity="0.2"/>
+<circle cx="445.4415587728429" cy="754.5584412271571" r="38" fill="#0F172A" stroke="#22D3EE" stroke-width="3" filter="url(#glow2)"/>
+<text x="445.4415587728429" y="760.5584412271571" text-anchor="middle" font-size="16" font-weight="800" fill="#22D3EE">2,224</text>
+<text x="398.77251121453077" y="806.2274887854693" text-anchor="end" font-size="18" font-weight="700" fill="#E2E8F0">🧠 LLM Agents</text>
+<line x1="612.2314444114278" y1="536.3549260746836" x2="367.40336829593684" y2="637.7660356514325" stroke="#FB7185" stroke-width="1.8" opacity="0.55"/>
+<circle cx="367.40336829593684" cy="637.7660356514325" r="46" fill="#FB7185" opacity="0.2"/>
+<circle cx="367.40336829593684" cy="637.7660356514325" r="38" fill="#0F172A" stroke="#FB7185" stroke-width="3" filter="url(#glow2)"/>
+<text x="367.40336829593684" y="643.7660356514325" text-anchor="middle" font-size="16" font-weight="800" fill="#FB7185">1,311</text>
+<text x="306.4273191501919" y="668.0231421875285" text-anchor="end" font-size="18" font-weight="700" fill="#E2E8F0">🔥 Trending (50★+)</text>
+<line x1="605.0" y1="500.0" x2="340.0" y2="500.00000000000006" stroke="#3572A5" stroke-width="1.8" opacity="0.55"/>
+<circle cx="340.0" cy="500.00000000000006" r="46" fill="#3572A5" opacity="0.2"/>
+<circle cx="340.0" cy="500.00000000000006" r="38" fill="#0F172A" stroke="#3572A5" stroke-width="3" filter="url(#glow2)"/>
+<text x="340.0" y="506.00000000000006" text-anchor="middle" font-size="16" font-weight="800" fill="#3572A5">1,764</text>
+<text x="274.0" y="505.00000000000006" text-anchor="end" font-size="18" font-weight="700" fill="#E2E8F0">🐍 Python</text>
+<line x1="612.2314444114278" y1="463.64507392531647" x2="367.4033682959368" y2="362.2339643485676" stroke="#3178C6" stroke-width="1.8" opacity="0.55"/>
+<circle cx="367.4033682959368" cy="362.2339643485676" r="40" fill="#3178C6" opacity="0.2"/>
+<circle cx="367.4033682959368" cy="362.2339643485676" r="32" fill="#0F172A" stroke="#3178C6" stroke-width="3" filter="url(#glow2)"/>
+<text x="367.4033682959368" y="368.2339643485676" text-anchor="middle" font-size="16" font-weight="800" fill="#3178C6">901</text>
+<text x="311.9705963452596" y="344.27295840666216" text-anchor="end" font-size="18" font-weight="700" fill="#E2E8F0">🟦 TypeScript</text>
+<line x1="632.824855787278" y1="432.824855787278" x2="502.0101012677667" y2="302.0101012677667" stroke="#00ADD8" stroke-width="1.8" opacity="0.55"/>
+<circle cx="502.0101012677667" cy="302.0101012677667" r="34" fill="#00ADD8" opacity="0.2"/>
+<circle cx="502.0101012677667" cy="302.0101012677667" r="26" fill="#0F172A" stroke="#00ADD8" stroke-width="3" filter="url(#glow2)"/>
+<text x="502.0101012677667" y="308.0101012677667" text-anchor="middle" font-size="16" font-weight="800" fill="#00ADD8">329</text>
+<text x="463.82633508369304" y="268.82633508369315" text-anchor="end" font-size="18" font-weight="700" fill="#E2E8F0">🐹 Go</text>
+<line x1="663.6450739253164" y1="412.2314444114278" x2="592.8486389377747" y2="241.3137308968398" stroke="#DEA584" stroke-width="1.8" opacity="0.55"/>
+<circle cx="592.8486389377747" cy="241.3137308968398" r="34" fill="#DEA584" opacity="0.2"/>
+<circle cx="592.8486389377747" cy="241.3137308968398" r="26" fill="#0F172A" stroke="#DEA584" stroke-width="3" filter="url(#glow2)"/>
+<text x="592.8486389377747" y="247.3137308968398" text-anchor="middle" font-size="16" font-weight="800" fill="#DEA584">316</text>
+<text x="572.1837335900598" y="196.42423614123032" text-anchor="end" font-size="18" font-weight="700" fill="#E2E8F0">🦀 Rust</text>
+<circle cx="700" cy="500" r="95" fill="url(#core)" filter="url(#glow2)"/>
+<circle cx="700" cy="500" r="95" fill="none" stroke="#fff" stroke-width="2" opacity="0.4"/>
+<text x="700" y="492" text-anchor="middle" font-size="34" font-weight="900" fill="#fff">🌌</text>
+<text x="700" y="522" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">AgentVerse</text>
+<text x="700" y="544" text-anchor="middle" font-size="16" font-weight="700" fill="#CBD5E1">5,080 repos</text>
+<text x="700" y="60" text-anchor="middle" font-size="32" font-weight="800" fill="#F1F5F9">🗺️ Category Map</text>
+<text x="700" y="90" text-anchor="middle" font-size="16" font-weight="500" fill="#94A3B8">Every repo bucketed by use-case, framework, and language</text>
+</svg>
